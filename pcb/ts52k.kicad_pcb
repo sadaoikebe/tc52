@@ -65318,5 +65318,145 @@
 			)
 		)
 	)
+	(gr_circle
+		(center 72.575 113.845)
+		(end 72.925 113.845)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "00e706d4-eac4-4b0f-b3d4-17ce0996a3d9")
+	)
+	(gr_circle
+		(center 28.971 61.6)
+		(end 29.221 61.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "0fad48e7-466e-4ac0-ade3-b90feb5dfd70")
+	)
+	(gr_circle
+		(center 31.784 63.112)
+		(end 32.134 63.112)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "1f500eed-fc35-4c55-9a57-ba0a703f45c6")
+	)
+	(gr_line
+		(start 29.53 72.13)
+		(end 25.571 72.13)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "3f845288-1ce9-46b4-84cd-5d8d48d7db84")
+	)
+	(gr_circle
+		(center 29.56 72.12)
+		(end 29.73 72.12)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "58a8fe80-3362-47ea-9bb9-d9e8a2e7b81a")
+	)
+	(gr_circle
+		(center 18.63 49.2)
+		(end 18.98 49.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "5b0357de-e0e9-4ece-8d0c-82d140514cfc")
+	)
+	(gr_circle
+		(center 1.6 71.71)
+		(end 1.95 71.71)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "65a0c471-8659-440c-8508-c26022da034d")
+	)
+	(gr_circle
+		(center 22.7 49.771)
+		(end 22.875 49.771)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "68697452-bf86-4011-a83c-e96af1d8329f")
+	)
+	(gr_circle
+		(center 25.25 49.473)
+		(end 25.425 49.473)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "86a0d7f7-14b6-463d-a294-f9e8fa9d094a")
+	)
+	(gr_circle
+		(center 219.075 115.845)
+		(end 219.424999 115.845)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "b12dae4c-bc32-4cf5-a07f-603bdbcd4a9e")
+	)
+	(gr_circle
+		(center 24 50.99)
+		(end 24.175 50.99)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "B.SilkS")
+		(uuid "c6477cf0-0176-4fd8-a93c-87f3de59c37d")
+	)
+	(gr_line
+		(start 29.53 68.806)
+		(end 29.53 72.13)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "db62a699-7f08-4a31-a0b7-32c20cb518eb")
+	)
+	(group "pin1-markers"
+		(uuid "30501d49-956c-46d3-aa66-843860339e41")
+		(members "00e706d4-eac4-4b0f-b3d4-17ce0996a3d9" "0fad48e7-466e-4ac0-ade3-b90feb5dfd70"
+			"1f500eed-fc35-4c55-9a57-ba0a703f45c6" "3f845288-1ce9-46b4-84cd-5d8d48d7db84"
+			"58a8fe80-3362-47ea-9bb9-d9e8a2e7b81a" "5b0357de-e0e9-4ece-8d0c-82d140514cfc"
+			"65a0c471-8659-440c-8508-c26022da034d" "68697452-bf86-4011-a83c-e96af1d8329f"
+			"86a0d7f7-14b6-463d-a294-f9e8fa9d094a" "b12dae4c-bc32-4cf5-a07f-603bdbcd4a9e"
+			"c6477cf0-0176-4fd8-a93c-87f3de59c37d" "db62a699-7f08-4a31-a0b7-32c20cb518eb"
+		)
+	)
 	(embedded_fonts no)
 )

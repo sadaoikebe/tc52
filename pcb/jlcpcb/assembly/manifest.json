@@ -1,6 +1,6 @@
 {
   "source_sha256": {
-    "ts52k.kicad_pcb": "956aa8063fbf30fe6b7a5908ea935e05840548067ef104a5a9195d771b788c02",
+    "ts52k.kicad_pcb": "79b0c6db8d1c20b97c4ef9cf71498f0dbe6a9d737856135bb6d52a09ed0db7ac",
     "ts52k.kicad_pro": "633fd67be9f171c5faf1c8ee3fe30595ef5622d54d99c09567cc4255423b8398",
     "ts52k.kicad_sch": "b3c99dde25e07306d0e71b3dddb65c69207ec73287e5af3e616b437956f016be",
     "rp2040.kicad_sch": "e7900cc01be92b62b58ea34b7f16c2418c5bd2f25a480fdd095aa3e1bd8da182",
@@ -18,13 +18,13 @@
     "rp2040.pretty/SW_Tactile_XKB_TS-1187A_5.1x5.1mm.kicad_mod": "4b692e5fbd9bc5822af8cca4c166c9c9773f4d8ab855c27a16479ab579437daf"
   },
   "output_sha256": {
-    "gerber/ts52k-gerbers.zip": "bd3279759eec19bca7e39f8dd1dacb1aaf3c6eb0b8a59eed57b041a8c4d4cd0b",
+    "gerber/ts52k-gerbers.zip": "3094c5a8b9f855162f273474582e328771a641b8ef453baca7529e109dc2603a",
     "assembly/ts52k-bom.csv": "52dfcca6e139a47091bf2ce2a6a34da21685d0d83fedbfb08f8b4f16ba0e67a4",
     "assembly/ts52k-cpl.csv": "92451e748d45b453cde883d6d994ccf81ecda262f665f95a5dca1b4141b02a7f"
   },
   "copper_layers": 4,
   "assembly_references": 76,
   "bom_line_items": 22,
-  "drc_warnings": 15,
+  "drc_warnings": 21,
   "erc_warnings": 6
 }
