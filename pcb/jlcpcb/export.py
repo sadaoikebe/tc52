@@ -23,6 +23,29 @@ BOARD = PCB_DIR / "ts52k.kicad_pcb"
 SCHEMATIC = PCB_DIR / "ts52k.kicad_sch"
 PROJECT = PCB_DIR / "ts52k.kicad_pro"
 
+# CPL rotation offsets (degrees) keyed by LCSC part number.  Every one of the 22 BOM lines / 76 CPL points was compared
+# against the numbered lands of the JLCEDA/EasyEDA Official Library (GET https://easyeda.com/api/products/<C>/components,
+# cross-checked with /svgs), pin names checked through the board nets and the datasheets: docs/tc52-rotation-audit/
+# (2026-11-14).  Only the four parts below differ from the KiCad footprint; X2 (C27636964) has no EasyEDA land at all and
+# is left at the KiCad angle, UNVERIFIED (see the README there).
+# The offsets assume that JLCPCB reads a Bottom rotation the way KiCad writes it (model A in
+# docs/tc52-rotation-audit/README.md).  That convention is NOT documented by JLCPCB and public reports disagree:
+# confirm it in the order-time placement preview / with JLCPCB before ordering (see the README there).
+ROTATION_CORRECTIONS = {
+    # TPS7A2433DBVR, KiCad SOT-23-5: pin 1 north-west (1-3 west, 4-5 east); EasyEDA pin 1 south-east (1-3 east, 4-5 west);
+    # 1=IN 2=GND 3=EN 4=NC 5=OUT in both and in the TI datasheet.  180 deg (U3 at KiCad -90 -> 90).
+    "C2866134": 180.0,
+    # W25Q128JVSIQ, KiCad SOIC-8 5.3 mm: two vertical columns, pin 1 north-west; EasyEDA: two horizontal rows, pin 1
+    # south-west.  Same 90 deg library difference as the CD4051 below (U4 at KiCad 0 -> 90).  Pin numbering identical.
+    "C97521": 90.0,
+    # AD8601ARTZ, KiCad SOT-23-5: as C2866134 (1=OUT 2=V- 3=+IN 4=-IN 5=V+, ADI datasheet).  180 deg (U6 -90 -> 90).
+    "C41249": 180.0,
+    # CD4051BM96, KiCad SOIC-16: pins in two vertical columns, pin 1 north-west; EasyEDA: two horizontal rows, pin 1
+    # south-west.  The KiCad footprint is the EasyEDA land turned 90 deg clockwise; on the bottom side (KiCad's
+    # bottom convention) that needs +90 in the CPL (U7/U8 at KiCad 0 -> 90).  Pin numbering identical (TI datasheet).
+    "C21379": 90.0,
+}
+
 
 def cli_path(override):
     if override:
@@ -130,11 +153,14 @@ def main():
             {"Comment": value, "Designator": ",".join(refs), "Footprint": footprint, "LCSC Part #": lcsc}
             for (value, footprint, lcsc), refs in grouped.items()
         ]
-        jlc_cpl = [
-            {"Designator": row["Ref"], "Mid X": row["PosX"], "Mid Y": row["PosY"],
-             "Layer": "Bottom", "Rotation": row["Rot"]}
-            for row in positions
-        ]
+        jlc_cpl = []
+        for row in positions:
+            rotation = row["Rot"]
+            offset = ROTATION_CORRECTIONS.get(bom[row["Ref"]]["LCSC"])
+            if offset:
+                rotation = f"{(float(rotation) + offset) % 360:.6f}"
+            jlc_cpl.append({"Designator": row["Ref"], "Mid X": row["PosX"], "Mid Y": row["PosY"],
+                            "Layer": "Bottom", "Rotation": rotation})
 
         run(cli, "pcb", "export", "gerbers", "--layers",
             "F.Cu,In1.Cu,In2.Cu,B.Cu,F.Mask,B.Mask,F.SilkS,B.SilkS,F.Paste,B.Paste,Edge.Cuts",

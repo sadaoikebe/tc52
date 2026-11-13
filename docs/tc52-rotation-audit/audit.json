@@ -1,0 +1,6550 @@
+[
+ {
+  "lcsc": "C52923",
+  "refs": [
+   "C2",
+   "C4",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10",
+   "C12",
+   "C13",
+   "C14",
+   "C15",
+   "C16",
+   "C17",
+   "C18",
+   "C21"
+  ],
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "comment": "1u",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C52923",
+   "model": "CL05A105KA5NQNC",
+   "brand": "Samsung Electro-Mechanics",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C52923"
+  },
+  "easyeda_meta": {
+   "package": "C0402",
+   "uuid": "0821ed6ea50c44f4909e4be7610e4198",
+   "symbol_para": {
+    "pre": "C?",
+    "name": "CL05A105KA5NQNC",
+    "package": "C0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "SAMSUNG(三星)",
+    "Manufacturer Part": "CL05A105KA5NQNC",
+    "Value": "1uF",
+    "Supplier Part": "C52923",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "1": "1",
+   "2": "2"
+  },
+  "svgs_symbol_pins": {
+   "1": "1",
+   "2": "2"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.48,
+    "y": 0.0,
+    "w": 0.56,
+    "h": 0.62,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.48,
+    "y": 0.0,
+    "w": 0.56,
+    "h": 0.62,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4201,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4201,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0599,
+    "max": 0.0599
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6379,
+    "max": 0.6379
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9001,
+    "max": 0.9001
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6379,
+    "max": 0.6379
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0599,
+   "max": 0.0599
+  },
+  "instances": [
+   {
+    "ref": "C2",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 38.6,
+    "y": 63.8
+   },
+   {
+    "ref": "C4",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 16.3477,
+    "y": 50.3072
+   },
+   {
+    "ref": "C6",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 21.1,
+    "y": 59.35
+   },
+   {
+    "ref": "C7",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 29.0,
+    "y": 81.05
+   },
+   {
+    "ref": "C8",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 22.65,
+    "y": 58.75
+   },
+   {
+    "ref": "C9",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 25.3,
+    "y": 58.414791
+   },
+   {
+    "ref": "C10",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 23.971737,
+    "y": 69.30234
+   },
+   {
+    "ref": "C12",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 24.911189,
+    "y": 69.125875
+   },
+   {
+    "ref": "C13",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 24.325,
+    "y": 58.7516
+   },
+   {
+    "ref": "C14",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 30.594374,
+    "y": 69.613608
+   },
+   {
+    "ref": "C15",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 29.7,
+    "y": 60.491503
+   },
+   {
+    "ref": "C16",
+    "kicad_rot": -45.0,
+    "cpl_rot": -45.0,
+    "x": 29.75,
+    "y": 65.75
+   },
+   {
+    "ref": "C17",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 19.98,
+    "y": 64.46
+   },
+   {
+    "ref": "C18",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 19.55,
+    "y": 61.4
+   },
+   {
+    "ref": "C21",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 16.8477,
+    "y": 52.9572
+   }
+  ]
+ },
+ {
+  "lcsc": "C69335",
+  "refs": [
+   "C3"
+  ],
+  "footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "comment": "4.7u",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C69335",
+   "model": "CL10A475KA8NQNC",
+   "brand": "Samsung Electro-Mechanics",
+   "package": "0603",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/61ea68bfd9114bb188d3b5500037ea97.pdf?productCode=C69335"
+  },
+  "easyeda_meta": {
+   "package": "C0603",
+   "uuid": "f8151fdc728a41ebbc304e11d39e5437",
+   "symbol_para": {
+    "pre": "C?",
+    "name": "CL10A475KA8NQNC",
+    "package": "C0603",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer Part": "CL10A475KA8NQNC",
+    "Manufacturer": "SAMSUNG(三星)",
+    "Value": "4.7uF",
+    "Supplier Part": "C69335",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "1": "1",
+   "2": "2"
+  },
+  "svgs_symbol_pins": {
+   "1": "1",
+   "2": "2"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.775,
+    "y": 0.0,
+    "w": 0.9,
+    "h": 0.95,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.775,
+    "y": 0.0,
+    "w": 0.9,
+    "h": 0.95,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+5V",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.7,
+    "y": 0.0,
+    "w": 0.8,
+    "h": 0.9,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.7,
+    "y": 0.0,
+    "w": 0.8,
+    "h": 0.9,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.075,
+    "max": 0.075
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.0443,
+    "max": 1.0443
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.475,
+    "max": 1.475
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.0443,
+    "max": 1.0443
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.075,
+   "max": 0.075
+  },
+  "instances": [
+   {
+    "ref": "C3",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 17.5727,
+    "y": 50.5322
+   }
+  ]
+ },
+ {
+  "lcsc": "C23733",
+  "refs": [
+   "C5",
+   "C32",
+   "C37"
+  ],
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "comment": "4.7u",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C23733",
+   "model": "CL05A475MP5NRNC",
+   "brand": "Samsung Electro-Mechanics",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C23733"
+  },
+  "easyeda_meta": {
+   "package": "C0402",
+   "uuid": "0821ed6ea50c44f4909e4be7610e4198",
+   "symbol_para": {
+    "pre": "C?",
+    "name": "CL05A475MP5NRNC",
+    "package": "C0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer Part": "CL05A475MP5NRNC",
+    "Manufacturer": "SAMSUNG(三星)",
+    "Value": "4.7uF",
+    "Supplier Part": "C23733",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.48,
+    "y": 0.0,
+    "w": 0.56,
+    "h": 0.62,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.48,
+    "y": 0.0,
+    "w": 0.56,
+    "h": 0.62,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4201,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4201,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0599,
+    "max": 0.0599
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6379,
+    "max": 0.6379
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9001,
+    "max": 0.9001
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6379,
+    "max": 0.6379
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0599,
+   "max": 0.0599
+  },
+  "instances": [
+   {
+    "ref": "C5",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 17.8227,
+    "y": 52.9572
+   },
+   {
+    "ref": "C32",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 1.67,
+    "y": 78.1
+   },
+   {
+    "ref": "C37",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 27.62,
+    "y": 72.85
+   }
+  ]
+ },
+ {
+  "lcsc": "C1525",
+  "refs": [
+   "C19",
+   "C20",
+   "C33",
+   "C34",
+   "C35"
+  ],
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "comment": "0.1u",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C1525",
+   "model": "CL05B104KO5NNNC",
+   "brand": "Samsung Electro-Mechanics",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1525"
+  },
+  "easyeda_meta": {
+   "package": "C0402",
+   "uuid": "0821ed6ea50c44f4909e4be7610e4198",
+   "symbol_para": {
+    "pre": "C?",
+    "name": "CL05B104KO5NNNC",
+    "package": "C0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer Part": "CL05B104KO5NNNC",
+    "Manufacturer": "SAMSUNG(三星)",
+    "Value": "100nF",
+    "Supplier Part": "C1525",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.48,
+    "y": 0.0,
+    "w": 0.56,
+    "h": 0.62,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "ENC_A",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.48,
+    "y": 0.0,
+    "w": 0.56,
+    "h": 0.62,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4201,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4201,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0599,
+    "max": 0.0599
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6379,
+    "max": 0.6379
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9001,
+    "max": 0.9001
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6379,
+    "max": 0.6379
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0599,
+   "max": 0.0599
+  },
+  "instances": [
+   {
+    "ref": "C19",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 297.776563,
+    "y": 49.887397
+   },
+   {
+    "ref": "C20",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 292.775917,
+    "y": 49.887397
+   },
+   {
+    "ref": "C33",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 1.67,
+    "y": 77.0
+   },
+   {
+    "ref": "C34",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 78.475,
+    "y": 114.724999
+   },
+   {
+    "ref": "C35",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 224.975,
+    "y": 116.724999
+   }
+  ]
+ },
+ {
+  "lcsc": "C52152",
+  "refs": [
+   "C30"
+  ],
+  "footprint": "Capacitor_SMD:C_0603_1608Metric",
+  "comment": "300p C0G",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C52152",
+   "model": "0603CG301J500NT",
+   "brand": "FH",
+   "package": "0603",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/09fe2daf22580a99fa7fea93ccb20fb7.pdf?productCode=C52152"
+  },
+  "easyeda_meta": {
+   "package": "C0603",
+   "uuid": "f8151fdc728a41ebbc304e11d39e5437",
+   "symbol_para": {
+    "pre": "C?",
+    "name": "0603CG301J500NT",
+    "package": "C0603",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "FH(风华)",
+    "Manufacturer Part": "0603CG301J500NT",
+    "Value": "300pF",
+    "Supplier Part": "C52152",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "1": "1",
+   "2": "2"
+  },
+  "svgs_symbol_pins": {
+   "1": "1",
+   "2": "2"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.775,
+    "y": 0.0,
+    "w": 0.9,
+    "h": 0.95,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "SENSE",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.775,
+    "y": 0.0,
+    "w": 0.9,
+    "h": 0.95,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.7,
+    "y": 0.0,
+    "w": 0.8,
+    "h": 0.9,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.7,
+    "y": 0.0,
+    "w": 0.8,
+    "h": 0.9,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.075,
+    "max": 0.075
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.0443,
+    "max": 1.0443
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.475,
+    "max": 1.475
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.0443,
+    "max": 1.0443
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.075,
+   "max": 0.075
+  },
+  "instances": [
+   {
+    "ref": "C30",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 0.45,
+    "y": 71.275
+   }
+  ]
+ },
+ {
+  "lcsc": "C22395519",
+  "refs": [
+   "D89",
+   "D90",
+   "D91"
+  ],
+  "footprint": "Diode_SMD:D_SOD-882D",
+  "comment": "H5VU10U",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C22395519",
+   "model": "H5VU10U",
+   "brand": "R+O",
+   "package": "DFN1006-2L",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/c39c364bc61f363e0e429e5dec391fd3.pdf?productCode=C22395519"
+  },
+  "easyeda_meta": {
+   "package": "DFN1006-2L-RD",
+   "uuid": "67dcb4c30a634f84b23d8dc3122c285f",
+   "symbol_para": {
+    "pre": "D?",
+    "name": "H5VU10U",
+    "package": "DFN1006-2L-RD",
+    "Supplier": "LCSC",
+    "Supplier Part": "C22395519",
+    "Manufacturer": "R+O(宏嘉诚)",
+    "Manufacturer Part": "H5VU10U",
+    "Contributor": "lcsc",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "A",
+   "1": "K"
+  },
+  "svgs_symbol_pins": {
+   "2": "A",
+   "1": "K"
+  },
+  "kicad_pin_functions": {
+   "": [
+    ""
+   ],
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.4,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.7,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "D-",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.4,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.7,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "1",
+    "x": -0.4,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.6,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "2",
+    "x": 0.4,
+    "y": 0.0,
+    "w": 0.5,
+    "h": 0.6,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0,
+    "max": 0.0
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.5657,
+    "max": 0.5657
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.8,
+    "max": 0.8
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.5657,
+    "max": 0.5657
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0,
+   "max": 0.0
+  },
+  "instances": [
+   {
+    "ref": "D89",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 22.674678,
+    "y": 50.990373
+   },
+   {
+    "ref": "D90",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 24.02888,
+    "y": 49.770629
+   },
+   {
+    "ref": "D91",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 26.6,
+    "y": 49.473439
+   }
+  ]
+ },
+ {
+  "lcsc": "C165948",
+  "refs": [
+   "J1"
+  ],
+  "footprint": "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12",
+  "comment": "HRO_TYPE-C-31-M-12",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C165948",
+   "model": "TYPE-C-31-M-12",
+   "brand": "Korean Hroparts Elec",
+   "package": "SMD",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/9e56b777c022540fcce7c7f67825f55e.pdf?productCode=C165948"
+  },
+  "easyeda_meta": {
+   "package": "USB-C_SMD-TYPE-C-31-M-12_1",
+   "uuid": "d556fcebb18d4647a249a7d49ea0c41d",
+   "symbol_para": {
+    "pre": "USBC?",
+    "name": "TYPE-C-31-M-12",
+    "package": "USB-C_SMD-TYPE-C-31-M-12_1",
+    "Contributor": "LCSC",
+    "Supplier": "LCSC",
+    "Supplier Part": "C165948",
+    "Manufacturer": "韩国韩荣",
+    "Manufacturer Part": "TYPE-C-31-M-12",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "A1B12": "GND",
+   "A4B9": "VBUS",
+   "B8": "SBU2",
+   "A5": "CC1",
+   "B7": "DN2",
+   "A6": "DP1",
+   "A7": "DN1",
+   "B6": "DP2",
+   "A8": "SBU1",
+   "B5": "CC2",
+   "B4A9": "VBUS",
+   "B1A12": "GND",
+   "4": "EH",
+   "3": "EH",
+   "2": "EH",
+   "1": "EH"
+  },
+  "svgs_symbol_pins": {
+   "A1B12": "GND",
+   "A4B9": "VBUS",
+   "B8": "SBU2",
+   "A5": "CC1",
+   "B7": "DN2",
+   "A6": "DP1",
+   "A7": "DN1",
+   "B6": "DP2",
+   "A8": "SBU1",
+   "B5": "CC2",
+   "B4A9": "VBUS",
+   "B1A12": "GND",
+   "4": "EH",
+   "3": "EH",
+   "2": "EH",
+   "1": "EH"
+  },
+  "kicad_pin_functions": {
+   "": [
+    ""
+   ],
+   "A1": [
+    ""
+   ],
+   "A4": [
+    ""
+   ],
+   "A5": [
+    ""
+   ],
+   "A6": [
+    ""
+   ],
+   "A7": [
+    ""
+   ],
+   "A8": [
+    ""
+   ],
+   "A9": [
+    ""
+   ],
+   "A12": [
+    ""
+   ],
+   "B1": [
+    ""
+   ],
+   "B4": [
+    ""
+   ],
+   "B5": [
+    ""
+   ],
+   "B6": [
+    ""
+   ],
+   "B7": [
+    ""
+   ],
+   "B8": [
+    ""
+   ],
+   "B9": [
+    ""
+   ],
+   "B12": [
+    ""
+   ],
+   "SH": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "A1",
+    "x": -3.25,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "A4",
+    "x": -2.45,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+5V",
+    "pinfunction": ""
+   },
+   {
+    "number": "A5",
+    "x": -1.25,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "Net-(J1-CC1)",
+    "pinfunction": ""
+   },
+   {
+    "number": "A6",
+    "x": -0.25,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "D+",
+    "pinfunction": ""
+   },
+   {
+    "number": "A7",
+    "x": 0.25,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "D-",
+    "pinfunction": ""
+   },
+   {
+    "number": "A8",
+    "x": 1.25,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "unconnected-(J1-SBU1-PadA8)",
+    "pinfunction": ""
+   },
+   {
+    "number": "A9",
+    "x": 2.45,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+5V",
+    "pinfunction": ""
+   },
+   {
+    "number": "A12",
+    "x": 3.25,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "B1",
+    "x": 3.25,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "B4",
+    "x": 2.45,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+5V",
+    "pinfunction": ""
+   },
+   {
+    "number": "B5",
+    "x": 1.75,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "Net-(J1-CC2)",
+    "pinfunction": ""
+   },
+   {
+    "number": "B6",
+    "x": 0.75,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "D+",
+    "pinfunction": ""
+   },
+   {
+    "number": "B7",
+    "x": -0.75,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "D-",
+    "pinfunction": ""
+   },
+   {
+    "number": "B8",
+    "x": -1.75,
+    "y": -4.045,
+    "w": 0.3,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "unconnected-(J1-SBU2-PadB8)",
+    "pinfunction": ""
+   },
+   {
+    "number": "B9",
+    "x": -2.45,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+5V",
+    "pinfunction": ""
+   },
+   {
+    "number": "B12",
+    "x": -3.25,
+    "y": -4.045,
+    "w": 0.6,
+    "h": 1.45,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "SH",
+    "x": -4.32,
+    "y": 1.05,
+    "w": 1.0,
+    "h": 1.6,
+    "angle": 0.0,
+    "shape": 2,
+    "attr": 0,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "SH",
+    "x": -4.32,
+    "y": -3.13,
+    "w": 1.0,
+    "h": 2.1,
+    "angle": 0.0,
+    "shape": 2,
+    "attr": 0,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "SH",
+    "x": 4.32,
+    "y": 1.05,
+    "w": 1.0,
+    "h": 1.6,
+    "angle": 0.0,
+    "shape": 2,
+    "attr": 0,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "SH",
+    "x": 4.32,
+    "y": -3.13,
+    "w": 1.0,
+    "h": 2.1,
+    "angle": 0.0,
+    "shape": 2,
+    "attr": 0,
+    "net": "GND",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "B8",
+    "x": -1.7501,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "A5",
+    "x": -1.2499,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "B7",
+    "x": -0.7501,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "A6",
+    "x": -0.2499,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "A7",
+    "x": 0.2499,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "B6",
+    "x": 0.7501,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "A8",
+    "x": 1.2497,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "B5",
+    "x": 1.7501,
+    "y": -2.4741,
+    "w": 0.3,
+    "h": 1.3,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "A1B12",
+    "x": -3.1999,
+    "y": -2.4741,
+    "w": 0.6,
+    "h": 1.3002,
+    "shape": "POLYGON",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "B1A12",
+    "x": 3.2001,
+    "y": -2.4741,
+    "w": 0.6,
+    "h": 1.3,
+    "shape": "POLYGON",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "B4A9",
+    "x": 2.4003,
+    "y": -2.4741,
+    "w": 0.6,
+    "h": 1.3,
+    "shape": "POLYGON",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "A4B9",
+    "x": -2.4,
+    "y": -2.4741,
+    "w": 0.6,
+    "h": 1.3,
+    "shape": "POLYGON",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "2",
+    "x": 4.3251,
+    "y": 2.4741,
+    "w": 1.2,
+    "h": 1.8,
+    "shape": "OVAL",
+    "layer": "11",
+    "angle": 0.0,
+    "hole_r": 0.4
+   },
+   {
+    "number": "1",
+    "x": 4.3251,
+    "y": -1.7057,
+    "w": 1.2,
+    "h": 2.0,
+    "shape": "OVAL",
+    "layer": "11",
+    "angle": 0.0,
+    "hole_r": 0.4
+   },
+   {
+    "number": "4",
+    "x": -4.3251,
+    "y": -1.7057,
+    "w": 1.2,
+    "h": 2.0,
+    "shape": "OVAL",
+    "layer": "11",
+    "angle": 0.0,
+    "hole_r": 0.4
+   },
+   {
+    "number": "3",
+    "x": -4.3251,
+    "y": 2.4741,
+    "w": 1.2,
+    "h": 1.8,
+    "shape": "OVAL",
+    "layer": "11",
+    "angle": 0.0,
+    "hole_r": 0.4
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     -0.0,
+     -1.5342
+    ],
+    "rms": 0.0683,
+    "max": 0.1102
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     -1.7595,
+     -3.2938
+    ],
+    "rms": 4.4871,
+    "max": 8.6693
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     -5.0533
+    ],
+    "rms": 6.3454,
+    "max": 12.1782
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     1.7595,
+     -3.2937
+    ],
+    "rms": 4.4871,
+    "max": 8.6693
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    -0.0,
+    -1.5342
+   ],
+   "rms": 0.0683,
+   "max": 0.1102
+  },
+  "instances": [
+   {
+    "ref": "J1",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 23.820919,
+    "y": 43.588617
+   }
+  ]
+ },
+ {
+  "lcsc": "C25744",
+  "refs": [
+   "R2",
+   "R3",
+   "R4",
+   "R15",
+   "R16"
+  ],
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "comment": "10k",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C25744",
+   "model": "0402WGF1002TCE",
+   "brand": "UNI-ROYAL",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C25744"
+  },
+  "easyeda_meta": {
+   "package": "R0402",
+   "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "0402WGF1002TCE",
+    "package": "R0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "UNI-ROYAL(厚声)",
+    "Manufacturer Part": "0402WGF1002TCE",
+    "Supplier Part": "C25744",
+    "Value": "10kΩ",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "QSPI_SS_N",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0772,
+    "max": 0.0772
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9428,
+    "max": 0.9428
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0772,
+   "max": 0.0772
+  },
+  "instances": [
+   {
+    "ref": "R2",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 34.0,
+    "y": 63.8
+   },
+   {
+    "ref": "R3",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 30.155076,
+    "y": 71.064252
+   },
+   {
+    "ref": "R4",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 29.0,
+    "y": 79.1
+   },
+   {
+    "ref": "R15",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 287.5,
+    "y": 49.61
+   },
+   {
+    "ref": "R16",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 289.0,
+    "y": 49.1
+   }
+  ]
+ },
+ {
+  "lcsc": "C23186",
+  "refs": [
+   "R5",
+   "R6"
+  ],
+  "footprint": "Resistor_SMD:R_0603_1608Metric",
+  "comment": "5.1k",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C23186",
+   "model": "0603WAF5101T5E",
+   "brand": "UNI-ROYAL",
+   "package": "0603",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C23186"
+  },
+  "easyeda_meta": {
+   "package": "R0603",
+   "uuid": "398691f1f785460098bbe5ee6590333c",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "0603WAF5101T5E",
+    "package": "R0603",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer Part": "0603WAF5101T5E",
+    "Manufacturer": "UNI-ROYAL(厚声)",
+    "Supplier Part": "C23186",
+    "Value": "5.1kΩ",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.825,
+    "y": 0.0,
+    "w": 0.8,
+    "h": 0.95,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.825,
+    "y": 0.0,
+    "w": 0.8,
+    "h": 0.95,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "Net-(J1-CC1)",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.7534,
+    "y": 0.0,
+    "w": 0.8065,
+    "h": 0.864,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.7534,
+    "y": 0.0,
+    "w": 0.8065,
+    "h": 0.864,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0716,
+    "max": 0.0716
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.1172,
+    "max": 1.1172
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.5784,
+    "max": 1.5784
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 1.1172,
+    "max": 1.1172
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0716,
+   "max": 0.0716
+  },
+  "instances": [
+   {
+    "ref": "R5",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 16.4592,
+    "y": 46.736
+   },
+   {
+    "ref": "R6",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 31.1404,
+    "y": 46.6852
+   }
+  ]
+ },
+ {
+  "lcsc": "C25092",
+  "refs": [
+   "R7",
+   "R8",
+   "R9",
+   "R10",
+   "R11",
+   "R12",
+   "R13",
+   "R24",
+   "R26"
+  ],
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "comment": "22",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C25092",
+   "model": "0402WGF220JTCE",
+   "brand": "UNI-ROYAL",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C25092"
+  },
+  "easyeda_meta": {
+   "package": "R0402",
+   "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "0402WGF220JTCE",
+    "package": "R0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "UNI-ROYAL(厚声)",
+    "Manufacturer Part": "0402WGF220JTCE",
+    "Supplier Part": "C25092",
+    "Value": "22Ω",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "D-",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "Net-(U5-USB_DM)",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0772,
+    "max": 0.0772
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9428,
+    "max": 0.9428
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0772,
+   "max": 0.0772
+  },
+  "instances": [
+   {
+    "ref": "R7",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 22.9616,
+    "y": 53.082
+   },
+   {
+    "ref": "R8",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 23.9776,
+    "y": 53.082
+   },
+   {
+    "ref": "R9",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 27.3,
+    "y": 57.85
+   },
+   {
+    "ref": "R10",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 28.276817,
+    "y": 58.181678
+   },
+   {
+    "ref": "R11",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 30.25,
+    "y": 58.825
+   },
+   {
+    "ref": "R12",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 29.271364,
+    "y": 58.475
+   },
+   {
+    "ref": "R13",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 26.25,
+    "y": 57.85
+   },
+   {
+    "ref": "R24",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 2.690001,
+    "y": 79.2
+   },
+   {
+    "ref": "R26",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 29.59,
+    "y": 72.85
+   }
+  ]
+ },
+ {
+  "lcsc": "C11702",
+  "refs": [
+   "R14",
+   "R20"
+  ],
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "comment": "1k",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C11702",
+   "model": "0402WGF1001TCE",
+   "brand": "UNI-ROYAL",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C11702"
+  },
+  "easyeda_meta": {
+   "package": "R0402",
+   "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "0402WGF1001TCE",
+    "package": "R0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "UNI-ROYAL(厚声)",
+    "Manufacturer Part": "0402WGF1001TCE",
+    "Supplier Part": "C11702",
+    "Value": "1kΩ",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "QSPI_SS_N",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "Net-(R14-Pad2)",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0772,
+    "max": 0.0772
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9428,
+    "max": 0.9428
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0772,
+   "max": 0.0772
+  },
+  "instances": [
+   {
+    "ref": "R14",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 36.0,
+    "y": 63.8
+   },
+   {
+    "ref": "R20",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 4.05,
+    "y": 77.109999
+   }
+  ]
+ },
+ {
+  "lcsc": "C881384",
+  "refs": [
+   "R21"
+  ],
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "comment": "43k 1%",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C881384",
+   "model": "CR0402F43K0Q10Z",
+   "brand": "EVER OHMS",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/26b4fef0e40d7756d4bc5f75532f8423.pdf?productCode=C881384"
+  },
+  "easyeda_meta": {
+   "package": "R0402",
+   "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "CR0402F43K0Q10Z",
+    "package": "R0402",
+    "Contributor": "LCSC",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Supplier Part": "C881384",
+    "Manufacturer": "EVER OHMS(天二科技)",
+    "Manufacturer Part": "CR0402F43K0Q10Z",
+    "Value": "43kΩ",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "AMP_OUT",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "AMP_FB",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0772,
+    "max": 0.0772
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9428,
+    "max": 0.9428
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0772,
+   "max": 0.0772
+  },
+  "instances": [
+   {
+    "ref": "R21",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 5.35,
+    "y": 74.51
+   }
+  ]
+ },
+ {
+  "lcsc": "C25076",
+  "refs": [
+   "R22",
+   "R31",
+   "R32",
+   "R33",
+   "R34"
+  ],
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "comment": "100",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C25076",
+   "model": "0402WGF1000TCE",
+   "brand": "UNI-ROYAL",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C25076"
+  },
+  "easyeda_meta": {
+   "package": "R0402",
+   "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "0402WGF1000TCE",
+    "package": "R0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "UNI-ROYAL(厚声)",
+    "Manufacturer Part": "0402WGF1000TCE",
+    "Supplier Part": "C25076",
+    "Value": "100Ω",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "SENSE",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "AMP_IN",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0772,
+    "max": 0.0772
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9428,
+    "max": 0.9428
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0772,
+   "max": 0.0772
+  },
+  "instances": [
+   {
+    "ref": "R22",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 4.05,
+    "y": 71.01
+   },
+   {
+    "ref": "R31",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 19.24,
+    "y": 65.849999
+   },
+   {
+    "ref": "R32",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 19.4,
+    "y": 68.809999
+   },
+   {
+    "ref": "R33",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 20.3,
+    "y": 72.01
+   },
+   {
+    "ref": "R34",
+    "kicad_rot": -90.0,
+    "cpl_rot": -90.0,
+    "x": 21.2,
+    "y": 70.109999
+   }
+  ]
+ },
+ {
+  "lcsc": "C17168",
+  "refs": [
+   "R23"
+  ],
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "comment": "0",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C17168",
+   "model": "0402WGF0000TCE",
+   "brand": "UNI-ROYAL",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C17168"
+  },
+  "easyeda_meta": {
+   "package": "R0402",
+   "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "0402WGF0000TCE",
+    "package": "R0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "UNI-ROYAL(厚声)",
+    "Manufacturer Part": "0402WGF0000TCE",
+    "Supplier Part": "C17168",
+    "Value": "0Ω",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "AMP_OUT",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "ADC",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0772,
+    "max": 0.0772
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9428,
+    "max": 0.9428
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0772,
+   "max": 0.0772
+  },
+  "instances": [
+   {
+    "ref": "R23",
+    "kicad_rot": 0.0,
+    "cpl_rot": 0.0,
+    "x": 6.859999,
+    "y": 74.0
+   }
+  ]
+ },
+ {
+  "lcsc": "C25741",
+  "refs": [
+   "R41",
+   "R42",
+   "R43",
+   "R44",
+   "R45",
+   "R46",
+   "R47",
+   "R48",
+   "R49",
+   "R50",
+   "R51",
+   "R52",
+   "R53",
+   "R54"
+  ],
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "comment": "100k",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C25741",
+   "model": "0402WGF1003TCE",
+   "brand": "UNI-ROYAL",
+   "package": "0402",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C25741"
+  },
+  "easyeda_meta": {
+   "package": "R0402",
+   "uuid": "fafd024f554e426eb74cf4a204aa88b0",
+   "symbol_para": {
+    "pre": "R?",
+    "name": "0402WGF1003TCE",
+    "package": "R0402",
+    "nameAlias": "Value",
+    "Supplier": "LCSC",
+    "Manufacturer": "UNI-ROYAL(厚声)",
+    "Manufacturer Part": "0402WGF1003TCE",
+    "Supplier Part": "C25741",
+    "Value": "100kΩ",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "svgs_symbol_pins": {
+   "2": "2",
+   "1": "1"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "COL1",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": 0.51,
+    "y": 0.0,
+    "w": 0.54,
+    "h": 0.64,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -0.4328,
+    "y": 0.0,
+    "w": 0.5657,
+    "h": 0.54,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0772,
+    "max": 0.0772
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.9428,
+    "max": 0.9428
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.6689,
+    "max": 0.6689
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0772,
+   "max": 0.0772
+  },
+  "instances": [
+   {
+    "ref": "R41",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 24.0,
+    "y": 115.89
+   },
+   {
+    "ref": "R42",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 45.0,
+    "y": 113.39
+   },
+   {
+    "ref": "R43",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 57.8,
+    "y": 111.40875
+   },
+   {
+    "ref": "R44",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 90.0,
+    "y": 113.39
+   },
+   {
+    "ref": "R45",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 100.0,
+    "y": 114.89
+   },
+   {
+    "ref": "R46",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 112.0,
+    "y": 116.39
+   },
+   {
+    "ref": "R47",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 160.0,
+    "y": 116.39
+   },
+   {
+    "ref": "R48",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 175.0,
+    "y": 114.89
+   },
+   {
+    "ref": "R49",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 196.0,
+    "y": 113.39
+   },
+   {
+    "ref": "R50",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 210.6,
+    "y": 100.589999
+   },
+   {
+    "ref": "R51",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 231.0,
+    "y": 100.289999
+   },
+   {
+    "ref": "R52",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 245.0,
+    "y": 113.39
+   },
+   {
+    "ref": "R53",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 262.0,
+    "y": 114.89
+   },
+   {
+    "ref": "R54",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 283.0,
+    "y": 116.39
+   }
+  ]
+ },
+ {
+  "lcsc": "C318884",
+  "refs": [
+   "SW1"
+  ],
+  "footprint": "rp2040:SW_Tactile_XKB_TS-1187A_5.1x5.1mm",
+  "comment": "TS-1187A-B-A-B",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C318884",
+   "model": "TS-1187A-B-A-B",
+   "brand": "XKB Connection",
+   "package": "SMD-4P,5.1x5.1mm",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/56c8799ae5193945a16a1ffbe378246a.pdf?productCode=C318884"
+  },
+  "easyeda_meta": {
+   "package": "SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5",
+   "uuid": "5b5b16d7faee41f894243f3dab7ab98e",
+   "symbol_para": {
+    "pre": "SW?",
+    "name": "TS-1187A-B-A-B",
+    "package": "SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5",
+    "Contributor": "LCSC",
+    "Supplier": "LCSC",
+    "Supplier Part": "C318884",
+    "Manufacturer": "XKB Connection(中国星坤)",
+    "Manufacturer Part": "TS-1187A-B-A-B",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "2": "B",
+   "1": "A",
+   "4": "D",
+   "3": "C"
+  },
+  "svgs_symbol_pins": {
+   "2": "B",
+   "1": "A",
+   "4": "D",
+   "3": "C"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    "1_1"
+   ],
+   "2": [
+    "2_2"
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -3.0,
+    "y": -1.875,
+    "w": 1.0,
+    "h": 0.75,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": "1_1"
+   },
+   {
+    "number": "1",
+    "x": 3.0,
+    "y": -1.875,
+    "w": 1.0,
+    "h": 0.75,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": "1_1"
+   },
+   {
+    "number": "2",
+    "x": -3.0,
+    "y": 1.875,
+    "w": 1.0,
+    "h": 0.75,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(R14-Pad2)",
+    "pinfunction": "2_2"
+   },
+   {
+    "number": "2",
+    "x": 3.0,
+    "y": 1.875,
+    "w": 1.0,
+    "h": 0.75,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(R14-Pad2)",
+    "pinfunction": "2_2"
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "1",
+    "x": -3.0,
+    "y": -1.8499,
+    "w": 1.0,
+    "h": 0.75,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "2",
+    "x": 3.0,
+    "y": -1.8499,
+    "w": 1.0,
+    "h": 0.75,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "3",
+    "x": -3.0,
+    "y": 1.8499,
+    "w": 1.0,
+    "h": 0.75,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "4",
+    "x": 3.0,
+    "y": 1.8499,
+    "w": 1.0,
+    "h": 0.75,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0251,
+    "max": 0.0251
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 4.9938,
+    "max": 5.0088
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 7.0622,
+    "max": 7.0622
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 4.9938,
+    "max": 5.0088
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0251,
+   "max": 0.0251
+  },
+  "instances": [
+   {
+    "ref": "SW1",
+    "kicad_rot": 90.0,
+    "cpl_rot": 90.0,
+    "x": 47.6,
+    "y": 76.2
+   }
+  ]
+ },
+ {
+  "lcsc": "C2866134",
+  "refs": [
+   "U3"
+  ],
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "comment": "TPS7A2433DBVR",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C2866134",
+   "model": "TPS7A2433DBVR",
+   "brand": "TI",
+   "package": "SOT-23-5",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/f79e8b6850cba9ea3ba13c8a9bc95ae3.pdf?productCode=C2866134"
+  },
+  "easyeda_meta": {
+   "package": "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR",
+   "uuid": "0578b39d94674c0886345dcbf3a746c7",
+   "symbol_para": {
+    "pre": "U?",
+    "name": "TPS7A2433DBVR",
+    "package": "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR",
+    "Contributor": "LCSC",
+    "Supplier": "LCSC",
+    "Supplier Part": "C2866134",
+    "Manufacturer": "TI(德州仪器)",
+    "Manufacturer Part": "TPS7A2433DBVR",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "1": "IN",
+   "2": "GND",
+   "3": "EN",
+   "4": "NC",
+   "5": "OUT"
+  },
+  "svgs_symbol_pins": {
+   "1": "IN",
+   "2": "GND",
+   "3": "EN",
+   "4": "NC",
+   "5": "OUT"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ],
+   "3": [
+    ""
+   ],
+   "4": [
+    ""
+   ],
+   "5": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -1.1375,
+    "y": -0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+5V",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": -1.1375,
+    "y": 0.0,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "3",
+    "x": -1.1375,
+    "y": 0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+5V",
+    "pinfunction": ""
+   },
+   {
+    "number": "4",
+    "x": 1.1375,
+    "y": 0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "5",
+    "x": 1.1375,
+    "y": -0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "2",
+    "x": 1.1,
+    "y": 0.0001,
+    "w": 0.6,
+    "h": 1.0,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "3",
+    "x": 1.1,
+    "y": -0.9498,
+    "w": 0.6,
+    "h": 1.0,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": 1.1,
+    "y": 0.9498,
+    "w": 0.6,
+    "h": 1.0,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "4",
+    "x": -1.1002,
+    "y": -0.9501,
+    "w": 0.6,
+    "h": 1.0,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "5",
+    "x": -1.1002,
+    "y": 0.9501,
+    "w": 0.6,
+    "h": 1.0,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     -0.4474,
+     -0.0
+    ],
+    "rms": 2.7739,
+    "max": 3.2894
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     -0.2275,
+     -0.2199
+    ],
+    "rms": 1.9616,
+    "max": 2.3445
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     -0.0076,
+     0.0
+    ],
+    "rms": 0.0366,
+    "max": 0.0449
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     -0.2275,
+     0.2199
+    ],
+    "rms": 1.9616,
+    "max": 2.3445
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 180,
+   "translation": [
+    -0.0076,
+    0.0
+   ],
+   "rms": 0.0366,
+   "max": 0.0449
+  },
+  "instances": [
+   {
+    "ref": "U3",
+    "kicad_rot": -90.0,
+    "cpl_rot": 90.0,
+    "x": 20.0304,
+    "y": 51.537
+   }
+  ]
+ },
+ {
+  "lcsc": "C97521",
+  "refs": [
+   "U4"
+  ],
+  "footprint": "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm",
+  "comment": "W25Q128JVS",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C97521",
+   "model": "W25Q128JVSIQ",
+   "brand": "Winbond",
+   "package": "SOIC-8-208mil",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/d009d960f1daec6149edaa35b7dae856.pdf?productCode=C97521"
+  },
+  "easyeda_meta": {
+   "package": "SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL",
+   "uuid": "fdf2396de7694c3e8177c1c94fe2bbcd",
+   "symbol_para": {
+    "pre": "U?",
+    "name": "W25Q128JVSIQTR",
+    "package": "SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL",
+    "Supplier": "LCSC",
+    "Manufacturer": "Winbond(华邦)",
+    "Manufacturer Part": "W25Q128JVSIQ",
+    "Supplier Part": "C97521",
+    "JLCPCB Part Class": "Basic Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "1": "CS#",
+   "2": "DO",
+   "3": "IO2",
+   "4": "GND",
+   "5": "DI",
+   "6": "CLK",
+   "7": "IO3",
+   "8": "VCC"
+  },
+  "svgs_symbol_pins": {
+   "1": "CS#",
+   "2": "DO",
+   "3": "IO2",
+   "4": "GND",
+   "5": "DI",
+   "6": "CLK",
+   "7": "IO3",
+   "8": "VCC"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    "~{CS}_1"
+   ],
+   "2": [
+    "DO/IO_{1}_2"
+   ],
+   "3": [
+    "~{WP}/IO_{2}_3"
+   ],
+   "4": [
+    "GND_4"
+   ],
+   "5": [
+    "DI/IO_{0}_5"
+   ],
+   "6": [
+    "CLK_6"
+   ],
+   "7": [
+    "~{HOLD}/~{RESET}/IO_{3}_7"
+   ],
+   "8": [
+    "VCC_8"
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -3.5875,
+    "y": -1.905,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "QSPI_SS_N",
+    "pinfunction": "~{CS}_1"
+   },
+   {
+    "number": "2",
+    "x": -3.5875,
+    "y": -0.635,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "/rp2040/QSPI_SD1",
+    "pinfunction": "DO/IO_{1}_2"
+   },
+   {
+    "number": "3",
+    "x": -3.5875,
+    "y": 0.635,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "/rp2040/QSPI_SD2",
+    "pinfunction": "~{WP}/IO_{2}_3"
+   },
+   {
+    "number": "4",
+    "x": -3.5875,
+    "y": 1.905,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": "GND_4"
+   },
+   {
+    "number": "5",
+    "x": 3.5875,
+    "y": 1.905,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "/rp2040/QSPI_SD0",
+    "pinfunction": "DI/IO_{0}_5"
+   },
+   {
+    "number": "6",
+    "x": 3.5875,
+    "y": 0.635,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "/rp2040/QSPI_SCLK",
+    "pinfunction": "CLK_6"
+   },
+   {
+    "number": "7",
+    "x": 3.5875,
+    "y": -0.635,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "/rp2040/QSPI_SD3",
+    "pinfunction": "~{HOLD}/~{RESET}/IO_{3}_7"
+   },
+   {
+    "number": "8",
+    "x": 3.5875,
+    "y": -1.905,
+    "w": 1.625,
+    "h": 0.65,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "VCC_8"
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "1",
+    "x": -1.905,
+    "y": 3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "2",
+    "x": -0.635,
+    "y": 3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "3",
+    "x": 0.635,
+    "y": 3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "4",
+    "x": 1.905,
+    "y": 3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "8",
+    "x": -1.905,
+    "y": -3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "7",
+    "x": -0.635,
+    "y": -3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "6",
+    "x": 0.635,
+    "y": -3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "5",
+    "x": 1.905,
+    "y": -3.5301,
+    "w": 0.63,
+    "h": 2.25,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 5.4189,
+    "max": 5.7279
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.0574,
+    "max": 0.0574
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 5.4189,
+    "max": 5.7279
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 7.6632,
+    "max": 8.0732
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 90,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.0574,
+   "max": 0.0574
+  },
+  "instances": [
+   {
+    "ref": "U4",
+    "kicad_rot": 0.0,
+    "cpl_rot": 90.0,
+    "x": 36.2712,
+    "y": 60.3075
+   }
+  ]
+ },
+ {
+  "lcsc": "C2040",
+  "refs": [
+   "U5"
+  ],
+  "footprint": "rp2040:IC57_RP2040",
+  "comment": "RP2040",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C2040",
+   "model": "RP2040",
+   "brand": "Raspberry Pi",
+   "package": "LQFN-56(7x7)",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/3dad1d8f987a4e00bfc677055df1f959.pdf?productCode=C2040"
+  },
+  "easyeda_meta": {
+   "package": "LQFN-56_L7.0-W7.0-P0.4-EP",
+   "uuid": "39e1b05b30bd4c64a6c9a1b67d9eb207",
+   "symbol_para": {
+    "pre": "U?",
+    "name": "RP2040",
+    "package": "LQFN-56_L7.0-W7.0-P0.4-EP",
+    "Contributor": "LCSC",
+    "Supplier": "LCSC",
+    "Supplier Part": "C2040",
+    "Manufacturer": "Raspberry Pi(树莓派)",
+    "Manufacturer Part": "RP2040",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "9": "GPIO7",
+   "8": "GPIO6",
+   "7": "GPIO5",
+   "6": "GPIO4",
+   "57": "GND",
+   "56": "QSPI_SS",
+   "55": "QSPI_SD1",
+   "54": "QSPI_SD2",
+   "53": "QSPI_SD0",
+   "52": "QSPI_SCLK",
+   "51": "QSPI_SD3",
+   "50": "DVDD",
+   "5": "GPIO3",
+   "49": "IOVDD",
+   "48": "USB_VDD",
+   "47": "USB_DP",
+   "46": "USB_DM",
+   "45": "VREG_VOUT",
+   "44": "VREG_IN",
+   "43": "ADC_AVDD",
+   "42": "IOVDD",
+   "41": "GPIO29_ADC3",
+   "40": "GPIO28_ADC2",
+   "4": "GPIO2",
+   "39": "GPIO27_ADC1",
+   "38": "GPIO26_ADC0",
+   "37": "GPIO25",
+   "36": "GPIO24",
+   "35": "GPIO23",
+   "34": "GPIO22",
+   "33": "IOVDD",
+   "32": "GPIO21",
+   "31": "GPIO20",
+   "30": "GPIO19",
+   "3": "GPIO1",
+   "29": "GPIO18",
+   "28": "GPIO17",
+   "27": "GPIO16",
+   "26": "RUN",
+   "25": "SWD",
+   "24": "SWCLK",
+   "23": "DVDD",
+   "22": "IOVDD",
+   "21": "XOUT",
+   "20": "XIN",
+   "2": "GPIO0",
+   "19": "TESTEN",
+   "18": "GPIO15",
+   "17": "GPIO14",
+   "16": "GPIO13",
+   "15": "GPIO12",
+   "14": "GPIO11",
+   "13": "GPIO10",
+   "12": "GPIO9",
+   "11": "GPIO8",
+   "10": "IOVDD",
+   "1": "IOVDD"
+  },
+  "svgs_symbol_pins": {
+   "9": "GPIO7",
+   "8": "GPIO6",
+   "7": "GPIO5",
+   "6": "GPIO4",
+   "57": "GND",
+   "56": "QSPI_SS",
+   "55": "QSPI_SD1",
+   "54": "QSPI_SD2",
+   "53": "QSPI_SD0",
+   "52": "QSPI_SCLK",
+   "51": "QSPI_SD3",
+   "50": "DVDD",
+   "5": "GPIO3",
+   "49": "IOVDD",
+   "48": "USB_VDD",
+   "47": "USB_DP",
+   "46": "USB_DM",
+   "45": "VREG_VOUT",
+   "44": "VREG_IN",
+   "43": "ADC_AVDD",
+   "42": "IOVDD",
+   "41": "GPIO29_ADC3",
+   "40": "GPIO28_ADC2",
+   "4": "GPIO2",
+   "39": "GPIO27_ADC1",
+   "38": "GPIO26_ADC0",
+   "37": "GPIO25",
+   "36": "GPIO24",
+   "35": "GPIO23",
+   "34": "GPIO22",
+   "33": "IOVDD",
+   "32": "GPIO21",
+   "31": "GPIO20",
+   "30": "GPIO19",
+   "3": "GPIO1",
+   "29": "GPIO18",
+   "28": "GPIO17",
+   "27": "GPIO16",
+   "26": "RUN",
+   "25": "SWD",
+   "24": "SWCLK",
+   "23": "DVDD",
+   "22": "IOVDD",
+   "21": "XOUT",
+   "20": "XIN",
+   "2": "GPIO0",
+   "19": "TESTEN",
+   "18": "GPIO15",
+   "17": "GPIO14",
+   "16": "GPIO13",
+   "15": "GPIO12",
+   "14": "GPIO11",
+   "13": "GPIO10",
+   "12": "GPIO9",
+   "11": "GPIO8",
+   "10": "IOVDD",
+   "1": "IOVDD"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    "IOVDD_1"
+   ],
+   "2": [
+    "GPIO0_2"
+   ],
+   "3": [
+    "GPIO1_3"
+   ],
+   "4": [
+    "GPIO2_4"
+   ],
+   "5": [
+    "GPIO3_5"
+   ],
+   "6": [
+    "GPIO4_6"
+   ],
+   "7": [
+    "GPIO5_7"
+   ],
+   "8": [
+    "GPIO6_8"
+   ],
+   "9": [
+    "GPIO7_9"
+   ],
+   "10": [
+    "IOVDD_10"
+   ],
+   "11": [
+    "GPIO8_11"
+   ],
+   "12": [
+    "GPIO9_12"
+   ],
+   "13": [
+    "GPIO10_13"
+   ],
+   "14": [
+    "GPIO11_14"
+   ],
+   "15": [
+    "GPIO12_15"
+   ],
+   "16": [
+    "GPIO13_16"
+   ],
+   "17": [
+    "GPIO14_17"
+   ],
+   "18": [
+    "GPIO15_18"
+   ],
+   "19": [
+    "TESTEN_19"
+   ],
+   "20": [
+    "XIN_20"
+   ],
+   "21": [
+    "XOUT_21"
+   ],
+   "22": [
+    "IOVDD_22"
+   ],
+   "23": [
+    "DVDD_23"
+   ],
+   "24": [
+    "SWCLK_24"
+   ],
+   "25": [
+    "SWDIO_25"
+   ],
+   "26": [
+    "RUN_26"
+   ],
+   "27": [
+    "GPIO16_27"
+   ],
+   "28": [
+    "GPIO17_28"
+   ],
+   "29": [
+    "GPIO18_29"
+   ],
+   "30": [
+    "GPIO19_30"
+   ],
+   "31": [
+    "GPIO20_31"
+   ],
+   "32": [
+    "GPIO21_32"
+   ],
+   "33": [
+    "IOVDD_33"
+   ],
+   "34": [
+    "GPIO22_34"
+   ],
+   "35": [
+    "GPIO23_35"
+   ],
+   "36": [
+    "GPIO24_36"
+   ],
+   "37": [
+    "GPIO25_37"
+   ],
+   "38": [
+    "GPIO26/ADC0_38"
+   ],
+   "39": [
+    "GPIO27/ADC1_39"
+   ],
+   "40": [
+    "GPIO28/ADC2_40"
+   ],
+   "41": [
+    "GPIO29/ADC3_41"
+   ],
+   "42": [
+    "IOVDD_42"
+   ],
+   "43": [
+    "ADC_AVDD_43"
+   ],
+   "44": [
+    "VREG_VIN_44"
+   ],
+   "45": [
+    "VREG_VOUT_45"
+   ],
+   "46": [
+    "USB_DM_46"
+   ],
+   "47": [
+    "USB_DP_47"
+   ],
+   "48": [
+    "USB_VDD_48"
+   ],
+   "49": [
+    "IOVDD_49"
+   ],
+   "50": [
+    "DVDD_50"
+   ],
+   "51": [
+    "QSPI_SD3_51"
+   ],
+   "52": [
+    "QSPI_SCLK_52"
+   ],
+   "53": [
+    "QSPI_SD0_53"
+   ],
+   "54": [
+    "QSPI_SD2_54"
+   ],
+   "55": [
+    "QSPI_SD1_55"
+   ],
+   "56": [
+    "QSPI_SS_N_56"
+   ],
+   "57": [
+    "EPAD_57"
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -3.4012,
+    "y": -2.6,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "IOVDD_1"
+   },
+   {
+    "number": "2",
+    "x": -3.4012,
+    "y": -2.200001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ENC_B",
+    "pinfunction": "GPIO0_2"
+   },
+   {
+    "number": "3",
+    "x": -3.4012,
+    "y": -1.799999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ENC_A",
+    "pinfunction": "GPIO1_3"
+   },
+   {
+    "number": "4",
+    "x": -3.4012,
+    "y": -1.4,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ENC_SW",
+    "pinfunction": "GPIO2_4"
+   },
+   {
+    "number": "5",
+    "x": -3.4012,
+    "y": -1.000001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "S3B",
+    "pinfunction": "GPIO3_5"
+   },
+   {
+    "number": "6",
+    "x": -3.4012,
+    "y": -0.599999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "S2B",
+    "pinfunction": "GPIO4_6"
+   },
+   {
+    "number": "7",
+    "x": -3.4012,
+    "y": -0.2,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "S1B",
+    "pinfunction": "GPIO5_7"
+   },
+   {
+    "number": "8",
+    "x": -3.4012,
+    "y": 0.2,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO6-Pad8)",
+    "pinfunction": "GPIO6_8"
+   },
+   {
+    "number": "9",
+    "x": -3.4012,
+    "y": 0.599999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "INHB",
+    "pinfunction": "GPIO7_9"
+   },
+   {
+    "number": "10",
+    "x": -3.4012,
+    "y": 1.000001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "IOVDD_10"
+   },
+   {
+    "number": "11",
+    "x": -3.4012,
+    "y": 1.4,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "S3A",
+    "pinfunction": "GPIO8_11"
+   },
+   {
+    "number": "12",
+    "x": -3.4012,
+    "y": 1.799999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "S2A",
+    "pinfunction": "GPIO9_12"
+   },
+   {
+    "number": "13",
+    "x": -3.4012,
+    "y": 2.200001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "S1A",
+    "pinfunction": "GPIO10_13"
+   },
+   {
+    "number": "14",
+    "x": -3.4012,
+    "y": 2.6,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "INHA",
+    "pinfunction": "GPIO11_14"
+   },
+   {
+    "number": "15",
+    "x": -2.6,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO12-Pad15)",
+    "pinfunction": "GPIO12_15"
+   },
+   {
+    "number": "16",
+    "x": -2.200001,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO13-Pad16)",
+    "pinfunction": "GPIO13_16"
+   },
+   {
+    "number": "17",
+    "x": -1.799999,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO14-Pad17)",
+    "pinfunction": "GPIO14_17"
+   },
+   {
+    "number": "18",
+    "x": -1.4,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO15-Pad18)",
+    "pinfunction": "GPIO15_18"
+   },
+   {
+    "number": "19",
+    "x": -1.000001,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": "TESTEN_19"
+   },
+   {
+    "number": "20",
+    "x": -0.599999,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-XIN)",
+    "pinfunction": "XIN_20"
+   },
+   {
+    "number": "21",
+    "x": -0.2,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-XOUT-Pad21)",
+    "pinfunction": "XOUT_21"
+   },
+   {
+    "number": "22",
+    "x": 0.2,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "IOVDD_22"
+   },
+   {
+    "number": "23",
+    "x": 0.599999,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "/rp2040/1V1",
+    "pinfunction": "DVDD_23"
+   },
+   {
+    "number": "24",
+    "x": 1.000001,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "SWCLK",
+    "pinfunction": "SWCLK_24"
+   },
+   {
+    "number": "25",
+    "x": 1.4,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "SWDIO",
+    "pinfunction": "SWDIO_25"
+   },
+   {
+    "number": "26",
+    "x": 1.799999,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "~{RST}",
+    "pinfunction": "RUN_26"
+   },
+   {
+    "number": "27",
+    "x": 2.200001,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO16-Pad27)",
+    "pinfunction": "GPIO16_27"
+   },
+   {
+    "number": "28",
+    "x": 2.6,
+    "y": 3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO17-Pad28)",
+    "pinfunction": "GPIO17_28"
+   },
+   {
+    "number": "29",
+    "x": 3.4012,
+    "y": 2.6,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ROW4_DRV",
+    "pinfunction": "GPIO18_29"
+   },
+   {
+    "number": "30",
+    "x": 3.4012,
+    "y": 2.200001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ROW3_DRV",
+    "pinfunction": "GPIO19_30"
+   },
+   {
+    "number": "31",
+    "x": 3.4012,
+    "y": 1.799999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ROW2_DRV",
+    "pinfunction": "GPIO20_31"
+   },
+   {
+    "number": "32",
+    "x": 3.4012,
+    "y": 1.4,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ROW1_DRV",
+    "pinfunction": "GPIO21_32"
+   },
+   {
+    "number": "33",
+    "x": 3.4012,
+    "y": 1.000001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "IOVDD_33"
+   },
+   {
+    "number": "34",
+    "x": 3.4012,
+    "y": 0.599999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO22-Pad34)",
+    "pinfunction": "GPIO22_34"
+   },
+   {
+    "number": "35",
+    "x": 3.4012,
+    "y": 0.2,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO23-Pad35)",
+    "pinfunction": "GPIO23_35"
+   },
+   {
+    "number": "36",
+    "x": 3.4012,
+    "y": -0.2,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO24-Pad36)",
+    "pinfunction": "GPIO24_36"
+   },
+   {
+    "number": "37",
+    "x": 3.4012,
+    "y": -0.599999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO25-Pad37)",
+    "pinfunction": "GPIO25_37"
+   },
+   {
+    "number": "38",
+    "x": 3.4012,
+    "y": -1.000001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "ADC",
+    "pinfunction": "GPIO26/ADC0_38"
+   },
+   {
+    "number": "39",
+    "x": 3.4012,
+    "y": -1.4,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO27{slash}ADC1-Pad39)",
+    "pinfunction": "GPIO27/ADC1_39"
+   },
+   {
+    "number": "40",
+    "x": 3.4012,
+    "y": -1.799999,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "SENSE",
+    "pinfunction": "GPIO28/ADC2_40"
+   },
+   {
+    "number": "41",
+    "x": 3.4012,
+    "y": -2.200001,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "unconnected-(U5-GPIO29{slash}ADC3-Pad41)",
+    "pinfunction": "GPIO29/ADC3_41"
+   },
+   {
+    "number": "42",
+    "x": 3.4012,
+    "y": -2.6,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 90.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "IOVDD_42"
+   },
+   {
+    "number": "43",
+    "x": 2.6,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "ADC_AVDD_43"
+   },
+   {
+    "number": "44",
+    "x": 2.200001,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "VREG_VIN_44"
+   },
+   {
+    "number": "45",
+    "x": 1.799999,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "/rp2040/1V1",
+    "pinfunction": "VREG_VOUT_45"
+   },
+   {
+    "number": "46",
+    "x": 1.4,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-USB_DM)",
+    "pinfunction": "USB_DM_46"
+   },
+   {
+    "number": "47",
+    "x": 1.000001,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-USB_DP)",
+    "pinfunction": "USB_DP_47"
+   },
+   {
+    "number": "48",
+    "x": 0.599999,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "USB_VDD_48"
+   },
+   {
+    "number": "49",
+    "x": 0.2,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "IOVDD_49"
+   },
+   {
+    "number": "50",
+    "x": -0.2,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "/rp2040/1V1",
+    "pinfunction": "DVDD_50"
+   },
+   {
+    "number": "51",
+    "x": -0.599999,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-QSPI_SD3)",
+    "pinfunction": "QSPI_SD3_51"
+   },
+   {
+    "number": "52",
+    "x": -1.000001,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-QSPI_SCLK)",
+    "pinfunction": "QSPI_SCLK_52"
+   },
+   {
+    "number": "53",
+    "x": -1.4,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-QSPI_SD0)",
+    "pinfunction": "QSPI_SD0_53"
+   },
+   {
+    "number": "54",
+    "x": -1.799999,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-QSPI_SD2)",
+    "pinfunction": "QSPI_SD2_54"
+   },
+   {
+    "number": "55",
+    "x": -2.200001,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "Net-(U5-QSPI_SD1)",
+    "pinfunction": "QSPI_SD1_55"
+   },
+   {
+    "number": "56",
+    "x": -2.6,
+    "y": -3.4012,
+    "w": 0.2,
+    "h": 0.807999,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "QSPI_SS_N",
+    "pinfunction": "QSPI_SS_N_56"
+   },
+   {
+    "number": "57",
+    "x": 0.0,
+    "y": 0.0,
+    "w": 3.2004,
+    "h": 3.2004,
+    "angle": 0.0,
+    "shape": 1,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": "EPAD_57"
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "57",
+    "x": 0.0,
+    "y": 0.0,
+    "w": 3.1,
+    "h": 3.1,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "56",
+    "x": -2.5999,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "55",
+    "x": -2.2001,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "54",
+    "x": -1.8001,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "53",
+    "x": -1.4,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "52",
+    "x": -1.0,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "51",
+    "x": -0.5999,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "50",
+    "x": -0.2002,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "49",
+    "x": 0.1999,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "48",
+    "x": 0.5999,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "47",
+    "x": 1.0,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "46",
+    "x": 1.4,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "45",
+    "x": 1.7998,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "44",
+    "x": 2.1999,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "43",
+    "x": 2.5999,
+    "y": -3.4249,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 270.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "42",
+    "x": 3.4249,
+    "y": -2.5999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "41",
+    "x": 3.4249,
+    "y": -2.1999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "40",
+    "x": 3.4249,
+    "y": -1.7998,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "39",
+    "x": 3.4249,
+    "y": -1.3998,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "38",
+    "x": 3.4249,
+    "y": -1.0,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "37",
+    "x": 3.4249,
+    "y": -0.5999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "36",
+    "x": 3.4249,
+    "y": -0.1999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "35",
+    "x": 3.4249,
+    "y": 0.2002,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "34",
+    "x": 3.4249,
+    "y": 0.6002,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "33",
+    "x": 3.4249,
+    "y": 1.0,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "32",
+    "x": 3.4249,
+    "y": 1.4,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "31",
+    "x": 3.4249,
+    "y": 1.8001,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "30",
+    "x": 3.4249,
+    "y": 2.2001,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "29",
+    "x": 3.4249,
+    "y": 2.6002,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 180.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "28",
+    "x": 2.5999,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "27",
+    "x": 2.1999,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "26",
+    "x": 1.7998,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "25",
+    "x": 1.4,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "24",
+    "x": 1.0,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "23",
+    "x": 0.5999,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "22",
+    "x": 0.1999,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "21",
+    "x": -0.2002,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "20",
+    "x": -0.5999,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "19",
+    "x": -1.0,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "18",
+    "x": -1.4,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "17",
+    "x": -1.8001,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "16",
+    "x": -2.2001,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "15",
+    "x": -2.5999,
+    "y": 3.4252,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 90.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "14",
+    "x": -3.4249,
+    "y": 2.6002,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "13",
+    "x": -3.4249,
+    "y": 2.2001,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "12",
+    "x": -3.4249,
+    "y": 1.8001,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "11",
+    "x": -3.4249,
+    "y": 1.4,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "10",
+    "x": -3.4249,
+    "y": 1.0,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "9",
+    "x": -3.4249,
+    "y": 0.6002,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "8",
+    "x": -3.4249,
+    "y": 0.2002,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "7",
+    "x": -3.4249,
+    "y": -0.1999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "6",
+    "x": -3.4249,
+    "y": -0.5999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "5",
+    "x": -3.4249,
+    "y": -1.0,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "4",
+    "x": -3.4249,
+    "y": -1.3998,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "3",
+    "x": -3.4249,
+    "y": -1.7998,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "2",
+    "x": -3.4249,
+    "y": -2.1999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": -3.4249,
+    "y": -2.5999,
+    "w": 0.85,
+    "h": 0.2,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     -0.0001
+    ],
+    "rms": 0.0236,
+    "max": 0.0239
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0001,
+     0.0
+    ],
+    "rms": 5.2914,
+    "max": 6.0781
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     -0.0,
+     0.0001
+    ],
+    "rms": 7.4831,
+    "max": 8.5812
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     -0.0001,
+     -0.0
+    ],
+    "rms": 5.2914,
+    "max": 6.0781
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 0,
+   "translation": [
+    0.0,
+    -0.0001
+   ],
+   "rms": 0.0236,
+   "max": 0.0239
+  },
+  "instances": [
+   {
+    "ref": "U5",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 24.6696,
+    "y": 64.0
+   }
+  ]
+ },
+ {
+  "lcsc": "C41249",
+  "refs": [
+   "U6"
+  ],
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "comment": "AD8601ARTZ",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C41249",
+   "model": "AD8601ARTZ-REEL7",
+   "brand": "ADI",
+   "package": "SOT-23-5",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/4d919ff6c29abd700ca10554169b8e9c.pdf?productCode=C41249"
+  },
+  "easyeda_meta": {
+   "package": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+   "uuid": "e7f085e4f71344109c090040716070ab",
+   "symbol_para": {
+    "pre": "U?",
+    "name": "AD8601ARTZ-REEL7",
+    "package": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+    "Contributor": "LCSC",
+    "Supplier": "LCSC",
+    "Manufacturer": "ADI(亚德诺)",
+    "Manufacturer Part": "AD8601ARTZ-REEL7",
+    "Supplier Part": "C41249",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "1": "OUT",
+   "2": "-V",
+   "3": "+IN",
+   "4": "-IN",
+   "5": "+V"
+  },
+  "svgs_symbol_pins": {
+   "1": "OUT",
+   "2": "-V",
+   "3": "+IN",
+   "4": "-IN",
+   "5": "+V"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ],
+   "3": [
+    ""
+   ],
+   "4": [
+    ""
+   ],
+   "5": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -1.1375,
+    "y": -0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "AMP_OUT",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": -1.1375,
+    "y": 0.0,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "3",
+    "x": -1.1375,
+    "y": 0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "AMP_IN",
+    "pinfunction": ""
+   },
+   {
+    "number": "4",
+    "x": 1.1375,
+    "y": 0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "AMP_FB",
+    "pinfunction": ""
+   },
+   {
+    "number": "5",
+    "x": 1.1375,
+    "y": -0.95,
+    "w": 1.325,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3A",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "5",
+    "x": -1.3001,
+    "y": 0.95,
+    "w": 1.1,
+    "h": 0.6,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "4",
+    "x": -1.3001,
+    "y": -0.95,
+    "w": 1.1,
+    "h": 0.6,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "3",
+    "x": 1.3001,
+    "y": -0.95,
+    "w": 1.1,
+    "h": 0.6,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "2",
+    "x": 1.3001,
+    "y": 0.0,
+    "w": 1.1,
+    "h": 0.6,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "1",
+    "x": 1.3001,
+    "y": 0.95,
+    "w": 1.1,
+    "h": 0.6,
+    "shape": "RECT",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     -0.4875,
+     0.0
+    ],
+    "rms": 2.9312,
+    "max": 3.488
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     -0.2275,
+     -0.26
+    ],
+    "rms": 2.0758,
+    "max": 2.5442
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0325,
+     0.0
+    ],
+    "rms": 0.1593,
+    "max": 0.1951
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     -0.2275,
+     0.26
+    ],
+    "rms": 2.0758,
+    "max": 2.5442
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 180,
+   "translation": [
+    0.0325,
+    0.0
+   ],
+   "rms": 0.1593,
+   "max": 0.1951
+  },
+  "instances": [
+   {
+    "ref": "U6",
+    "kicad_rot": -90.0,
+    "cpl_rot": 90.0,
+    "x": 3.1,
+    "y": 74.0
+   }
+  ]
+ },
+ {
+  "lcsc": "C21379",
+  "refs": [
+   "U7",
+   "U8"
+  ],
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "comment": "CD4051BM96",
+  "source": "components",
+  "components_vs_svgs_same_pads": true,
+  "lcsc_meta": {
+   "code": "C21379",
+   "model": "CD4051BM96",
+   "brand": "TI",
+   "package": "SOIC-16-150mil",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/207d97b65d2f4b28afe5819fa21209c9.pdf?productCode=C21379"
+  },
+  "easyeda_meta": {
+   "package": "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+   "uuid": "5cafa9ae5a9e4b2ab529c9f08b47eb94",
+   "symbol_para": {
+    "pre": "U?",
+    "name": "CD4051BM96",
+    "package": "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+    "Supplier": "LCSC",
+    "Manufacturer": "TI(德州仪器)",
+    "Manufacturer Part": "CD4051BM96",
+    "Supplier Part": "C21379",
+    "JLCPCB Part Class": "Extended Part"
+   }
+  },
+  "easyeda_symbol_pins": {
+   "1": "CHANNELS 4",
+   "2": "IN/OUT 6",
+   "3": "COM OUT/IN",
+   "4": "CHANNELS 7",
+   "5": "IN/OUT 5",
+   "6": "INH",
+   "7": "VEE",
+   "8": "VSS",
+   "9": "C",
+   "10": "B",
+   "11": "A",
+   "12": "CHANNELS IN/OUT 3",
+   "13": "CHANNELS IN/OUT 0",
+   "14": "CHANNELS IN/OUT 1",
+   "15": "CHANNELS IN/OUT 2",
+   "16": "VDD"
+  },
+  "svgs_symbol_pins": {
+   "1": "CHANNELS 4",
+   "2": "IN/OUT 6",
+   "3": "COM OUT/IN",
+   "4": "CHANNELS 7",
+   "5": "IN/OUT 5",
+   "6": "INH",
+   "7": "VEE",
+   "8": "VSS",
+   "9": "C",
+   "10": "B",
+   "11": "A",
+   "12": "CHANNELS IN/OUT 3",
+   "13": "CHANNELS IN/OUT 0",
+   "14": "CHANNELS IN/OUT 1",
+   "15": "CHANNELS IN/OUT 2",
+   "16": "VDD"
+  },
+  "kicad_pin_functions": {
+   "1": [
+    ""
+   ],
+   "2": [
+    ""
+   ],
+   "3": [
+    ""
+   ],
+   "4": [
+    ""
+   ],
+   "5": [
+    ""
+   ],
+   "6": [
+    ""
+   ],
+   "7": [
+    ""
+   ],
+   "8": [
+    ""
+   ],
+   "9": [
+    ""
+   ],
+   "10": [
+    ""
+   ],
+   "11": [
+    ""
+   ],
+   "12": [
+    ""
+   ],
+   "13": [
+    ""
+   ],
+   "14": [
+    ""
+   ],
+   "15": [
+    ""
+   ],
+   "16": [
+    ""
+   ]
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -2.475,
+    "y": -4.445,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "COL1",
+    "pinfunction": ""
+   },
+   {
+    "number": "2",
+    "x": -2.475,
+    "y": -3.175,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "COL2",
+    "pinfunction": ""
+   },
+   {
+    "number": "3",
+    "x": -2.475,
+    "y": -1.905,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "SENSE",
+    "pinfunction": ""
+   },
+   {
+    "number": "4",
+    "x": -2.475,
+    "y": -0.635,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "COL3",
+    "pinfunction": ""
+   },
+   {
+    "number": "5",
+    "x": -2.475,
+    "y": 0.635,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "6",
+    "x": -2.475,
+    "y": 1.905,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "INHA",
+    "pinfunction": ""
+   },
+   {
+    "number": "7",
+    "x": -2.475,
+    "y": 3.175,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "8",
+    "x": -2.475,
+    "y": 4.445,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "9",
+    "x": 2.475,
+    "y": 4.445,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "S3A",
+    "pinfunction": ""
+   },
+   {
+    "number": "10",
+    "x": 2.475,
+    "y": 3.175,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "S2A",
+    "pinfunction": ""
+   },
+   {
+    "number": "11",
+    "x": 2.475,
+    "y": 1.905,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "S1A",
+    "pinfunction": ""
+   },
+   {
+    "number": "12",
+    "x": 2.475,
+    "y": 0.635,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": ""
+   },
+   {
+    "number": "13",
+    "x": 2.475,
+    "y": -0.635,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "COL4",
+    "pinfunction": ""
+   },
+   {
+    "number": "14",
+    "x": 2.475,
+    "y": -1.905,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "COL5",
+    "pinfunction": ""
+   },
+   {
+    "number": "15",
+    "x": 2.475,
+    "y": -3.175,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "COL6",
+    "pinfunction": ""
+   },
+   {
+    "number": "16",
+    "x": 2.475,
+    "y": -4.445,
+    "w": 1.95,
+    "h": 0.6,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3M",
+    "pinfunction": ""
+   }
+  ],
+  "easyeda_pads": [
+   {
+    "number": "1",
+    "x": -4.445,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "2",
+    "x": -3.175,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "3",
+    "x": -1.905,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "4",
+    "x": -0.635,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "5",
+    "x": 0.635,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "6",
+    "x": 1.905,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "7",
+    "x": 3.175,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "8",
+    "x": 4.445,
+    "y": 2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "16",
+    "x": -4.445,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "15",
+    "x": -3.175,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "14",
+    "x": -1.905,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "13",
+    "x": -0.635,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "12",
+    "x": 0.635,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "11",
+    "x": 1.905,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "10",
+    "x": 3.175,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   },
+   {
+    "number": "9",
+    "x": 4.445,
+    "y": -2.7356,
+    "w": 0.602,
+    "h": 1.971,
+    "shape": "OVAL",
+    "layer": "1",
+    "angle": 0.0,
+    "hole_r": 0.0
+   }
+  ],
+  "unmatched": [],
+  "fits": [
+   {
+    "rotation_easyeda_to_kicad_cw": 0,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 5.5267,
+    "max": 7.4459
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 90,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 0.2606,
+    "max": 0.2606
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 180,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 5.5267,
+    "max": 7.4459
+   },
+   {
+    "rotation_easyeda_to_kicad_cw": 270,
+    "translation": [
+     0.0,
+     0.0
+    ],
+    "rms": 7.8116,
+    "max": 10.3045
+   }
+  ],
+  "best": {
+   "rotation_easyeda_to_kicad_cw": 90,
+   "translation": [
+    0.0,
+    0.0
+   ],
+   "rms": 0.2606,
+   "max": 0.2606
+  },
+  "instances": [
+   {
+    "ref": "U7",
+    "kicad_rot": 0.0,
+    "cpl_rot": 90.0,
+    "x": 76.0,
+    "y": 108.5
+   },
+   {
+    "ref": "U8",
+    "kicad_rot": 0.0,
+    "cpl_rot": 90.0,
+    "x": 222.5,
+    "y": 110.5
+   }
+  ]
+ },
+ {
+  "lcsc": "C27636964",
+  "refs": [
+   "X2"
+  ],
+  "footprint": "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm",
+  "comment": "OC2EL89CJO-113YLC-12M",
+  "source": null,
+  "verdict": "UNVERIFIED: no EasyEDA/JLCEDA land data (see fetch-log.json, raw/C27636964-*)",
+  "lcsc_meta": {
+   "code": "C27636964",
+   "model": "OC2EL89CJO-113YLC-12M",
+   "brand": "YXC Crystal Oscillators",
+   "package": "SMD3225-4P",
+   "pdf": "https://datasheet.lcsc.com/datasheet/pdf/5a86d15e69aaf70198696b01bb456602.pdf?productCode=C27636964"
+  },
+  "kicad_pads": [
+   {
+    "number": "1",
+    "x": -1.05,
+    "y": 0.825,
+    "w": 1.3,
+    "h": 1.1,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "Net-(X2-EN)",
+    "pinfunction": "EN_1"
+   },
+   {
+    "number": "2",
+    "x": 1.05,
+    "y": 0.825,
+    "w": 1.3,
+    "h": 1.1,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "GND",
+    "pinfunction": "GND_2"
+   },
+   {
+    "number": "3",
+    "x": 1.05,
+    "y": -0.825,
+    "w": 1.3,
+    "h": 1.1,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "Net-(U5-XIN)",
+    "pinfunction": "OUT_3"
+   },
+   {
+    "number": "4",
+    "x": -1.05,
+    "y": -0.825,
+    "w": 1.3,
+    "h": 1.1,
+    "angle": 0.0,
+    "shape": 4,
+    "attr": 1,
+    "net": "+3V3",
+    "pinfunction": "Vdd_4"
+   }
+  ],
+  "kicad_pin_functions": {
+   "1": "EN_1",
+   "2": "GND_2",
+   "3": "OUT_3",
+   "4": "Vdd_4"
+  },
+  "instances": [
+   {
+    "ref": "X2",
+    "kicad_rot": 180.0,
+    "cpl_rot": 180.0,
+    "x": 27.530862,
+    "y": 70.440927
+   }
+  ]
+ }
+]

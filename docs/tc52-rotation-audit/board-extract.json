@@ -1,0 +1,7716 @@
+{
+ "board": {
+  "J1": {
+   "ref": "J1",
+   "fpid": "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12",
+   "lcsc": "C165948",
+   "value": "HRO_TYPE-C-31-M-12",
+   "bottom": true,
+   "x": 23.820919,
+   "y": 43.588617,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "",
+     "x": -2.89,
+     "y": -2.6,
+     "w": 0.65,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 0,
+     "attr": 3,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 2.89,
+     "y": -2.6,
+     "w": 0.65,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 0,
+     "attr": 3,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A1",
+     "x": -3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "A4",
+     "x": -2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    },
+    {
+     "number": "A5",
+     "x": -1.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(J1-CC1)",
+     "pinfunction": ""
+    },
+    {
+     "number": "A6",
+     "x": -0.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D+",
+     "pinfunction": ""
+    },
+    {
+     "number": "A7",
+     "x": 0.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D-",
+     "pinfunction": ""
+    },
+    {
+     "number": "A8",
+     "x": 1.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "unconnected-(J1-SBU1-PadA8)",
+     "pinfunction": ""
+    },
+    {
+     "number": "A9",
+     "x": 2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    },
+    {
+     "number": "A12",
+     "x": 3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "B1",
+     "x": 3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "B4",
+     "x": 2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    },
+    {
+     "number": "B5",
+     "x": 1.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(J1-CC2)",
+     "pinfunction": ""
+    },
+    {
+     "number": "B6",
+     "x": 0.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D+",
+     "pinfunction": ""
+    },
+    {
+     "number": "B7",
+     "x": -0.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D-",
+     "pinfunction": ""
+    },
+    {
+     "number": "B8",
+     "x": -1.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "unconnected-(J1-SBU2-PadB8)",
+     "pinfunction": ""
+    },
+    {
+     "number": "B9",
+     "x": -2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    },
+    {
+     "number": "B12",
+     "x": -3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": -4.32,
+     "y": 1.05,
+     "w": 1.0,
+     "h": 1.6,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": -4.32,
+     "y": -3.13,
+     "w": 1.0,
+     "h": 2.1,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": 4.32,
+     "y": 1.05,
+     "w": 1.0,
+     "h": 1.6,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": 4.32,
+     "y": -3.13,
+     "w": 1.0,
+     "h": 2.1,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "",
+     "x": -2.89,
+     "y": -2.6,
+     "w": 0.65,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 0,
+     "attr": 3,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 2.89,
+     "y": -2.6,
+     "w": 0.65,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 0,
+     "attr": 3,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A1",
+     "x": -3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A4",
+     "x": -2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A5",
+     "x": -1.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A6",
+     "x": -0.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A7",
+     "x": 0.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A8",
+     "x": 1.25,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A9",
+     "x": 2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "A12",
+     "x": 3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B1",
+     "x": 3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B4",
+     "x": 2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B5",
+     "x": 1.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B6",
+     "x": 0.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B7",
+     "x": -0.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B8",
+     "x": -1.75,
+     "y": -4.045,
+     "w": 0.3,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B9",
+     "x": -2.45,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "B12",
+     "x": -3.25,
+     "y": -4.045,
+     "w": 0.6,
+     "h": 1.45,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": -4.32,
+     "y": -3.13,
+     "w": 1.0,
+     "h": 2.1,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": -4.32,
+     "y": 1.05,
+     "w": 1.0,
+     "h": 1.6,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": 4.32,
+     "y": -3.13,
+     "w": 1.0,
+     "h": 2.1,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "SH",
+     "x": 4.32,
+     "y": 1.05,
+     "w": 1.0,
+     "h": 1.6,
+     "angle": 0.0,
+     "shape": 2,
+     "attr": 0,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R5": {
+   "ref": "R5",
+   "fpid": "Resistor_SMD:R_0603_1608Metric",
+   "lcsc": "C23186",
+   "value": "5.1k",
+   "bottom": true,
+   "x": 16.4592,
+   "y": 46.736,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(J1-CC1)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R6": {
+   "ref": "R6",
+   "fpid": "Resistor_SMD:R_0603_1608Metric",
+   "lcsc": "C23186",
+   "value": "5.1k",
+   "bottom": true,
+   "x": 31.1404,
+   "y": 46.6852,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(J1-CC2)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.825,
+     "y": 0.0,
+     "w": 0.8,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C16": {
+   "ref": "C16",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 29.75,
+   "y": 65.75,
+   "angle": -45.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R2": {
+   "ref": "R2",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25744",
+   "value": "10k",
+   "bottom": true,
+   "x": 34.0,
+   "y": 63.8,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "QSPI_SS_N",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "X2": {
+   "ref": "X2",
+   "fpid": "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm",
+   "lcsc": "C27636964",
+   "value": "OC2EL89CJO-113YLC-12M",
+   "bottom": true,
+   "x": 27.530862,
+   "y": 70.440927,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -1.05,
+     "y": 0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(X2-EN)",
+     "pinfunction": "EN_1"
+    },
+    {
+     "number": "2",
+     "x": 1.05,
+     "y": 0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": "GND_2"
+    },
+    {
+     "number": "3",
+     "x": 1.05,
+     "y": -0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-XIN)",
+     "pinfunction": "OUT_3"
+    },
+    {
+     "number": "4",
+     "x": -1.05,
+     "y": -0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "Vdd_4"
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -1.05,
+     "y": 0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 1.05,
+     "y": 0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": 1.05,
+     "y": -0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": -1.05,
+     "y": -0.825,
+     "w": 1.3,
+     "h": 1.1,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C6": {
+   "ref": "C6",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 21.1,
+   "y": 59.35,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C17": {
+   "ref": "C17",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 19.98,
+   "y": 64.46,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C35": {
+   "ref": "C35",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C1525",
+   "value": "0.1u",
+   "bottom": true,
+   "x": 224.975,
+   "y": 116.724999,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3M",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R50": {
+   "ref": "R50",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 210.6,
+   "y": 100.589999,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL10",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R11": {
+   "ref": "R11",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 30.25,
+   "y": 58.825,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD1",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD1)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R46": {
+   "ref": "R46",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 112.0,
+   "y": 116.39,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL6",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C14": {
+   "ref": "C14",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 30.594374,
+   "y": 69.613608,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "U3": {
+   "ref": "U3",
+   "fpid": "Package_TO_SOT_SMD:SOT-23-5",
+   "lcsc": "C2866134",
+   "value": "TPS7A2433DBVR",
+   "bottom": true,
+   "x": 20.0304,
+   "y": 51.537,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -1.1375,
+     "y": 0.0,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": 1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": 1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -1.1375,
+     "y": 0.0,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": 1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": 1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C8": {
+   "ref": "C8",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 22.65,
+   "y": 58.75,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/1V1",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "SW1": {
+   "ref": "SW1",
+   "fpid": "rp2040:SW_Tactile_XKB_TS-1187A_5.1x5.1mm",
+   "lcsc": "C318884",
+   "value": "TS-1187A-B-A-B",
+   "bottom": true,
+   "x": 47.6,
+   "y": 76.2,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -3.0,
+     "y": -1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": "1_1"
+    },
+    {
+     "number": "1",
+     "x": 3.0,
+     "y": -1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": "1_1"
+    },
+    {
+     "number": "2",
+     "x": -3.0,
+     "y": 1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(R14-Pad2)",
+     "pinfunction": "2_2"
+    },
+    {
+     "number": "2",
+     "x": 3.0,
+     "y": 1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(R14-Pad2)",
+     "pinfunction": "2_2"
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -3.0,
+     "y": -1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "1",
+     "x": 3.0,
+     "y": -1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -3.0,
+     "y": 1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 3.0,
+     "y": 1.875,
+     "w": 1.0,
+     "h": 0.75,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C10": {
+   "ref": "C10",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 23.971737,
+   "y": 69.30234,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/1V1",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R13": {
+   "ref": "R13",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 26.25,
+   "y": 57.85,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD3)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C13": {
+   "ref": "C13",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 24.325,
+   "y": 58.7516,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R16": {
+   "ref": "R16",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25744",
+   "value": "10k",
+   "bottom": true,
+   "x": 289.0,
+   "y": 49.1,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ENC_B",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R20": {
+   "ref": "R20",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C11702",
+   "value": "1k",
+   "bottom": true,
+   "x": 4.05,
+   "y": 77.109999,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_FB",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R41": {
+   "ref": "R41",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 24.0,
+   "y": 115.89,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL1",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R12": {
+   "ref": "R12",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 29.271364,
+   "y": 58.475,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD2",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD2)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "U4": {
+   "ref": "U4",
+   "fpid": "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm",
+   "lcsc": "C97521",
+   "value": "W25Q128JVS",
+   "bottom": true,
+   "x": 36.2712,
+   "y": 60.3075,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -3.5875,
+     "y": -1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "QSPI_SS_N",
+     "pinfunction": "~{CS}_1"
+    },
+    {
+     "number": "2",
+     "x": -3.5875,
+     "y": -0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD1",
+     "pinfunction": "DO/IO_{1}_2"
+    },
+    {
+     "number": "3",
+     "x": -3.5875,
+     "y": 0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD2",
+     "pinfunction": "~{WP}/IO_{2}_3"
+    },
+    {
+     "number": "4",
+     "x": -3.5875,
+     "y": 1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": "GND_4"
+    },
+    {
+     "number": "5",
+     "x": 3.5875,
+     "y": 1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD0",
+     "pinfunction": "DI/IO_{0}_5"
+    },
+    {
+     "number": "6",
+     "x": 3.5875,
+     "y": 0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SCLK",
+     "pinfunction": "CLK_6"
+    },
+    {
+     "number": "7",
+     "x": 3.5875,
+     "y": -0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD3",
+     "pinfunction": "~{HOLD}/~{RESET}/IO_{3}_7"
+    },
+    {
+     "number": "8",
+     "x": 3.5875,
+     "y": -1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "VCC_8"
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -3.5875,
+     "y": -1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -3.5875,
+     "y": -0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -3.5875,
+     "y": 0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": -3.5875,
+     "y": 1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": 3.5875,
+     "y": 1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "6",
+     "x": 3.5875,
+     "y": 0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "7",
+     "x": 3.5875,
+     "y": -0.635,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "8",
+     "x": 3.5875,
+     "y": -1.905,
+     "w": 1.625,
+     "h": 0.65,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R52": {
+   "ref": "R52",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 245.0,
+   "y": 113.39,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL12",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C21": {
+   "ref": "C21",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 16.8477,
+   "y": 52.9572,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R54": {
+   "ref": "R54",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 283.0,
+   "y": 116.39,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL14",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C9": {
+   "ref": "C9",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 25.3,
+   "y": 58.414791,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/1V1",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C34": {
+   "ref": "C34",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C1525",
+   "value": "0.1u",
+   "bottom": true,
+   "x": 78.475,
+   "y": 114.724999,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3M",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R10": {
+   "ref": "R10",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 28.276817,
+   "y": 58.181678,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SD0",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD0)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R15": {
+   "ref": "R15",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25744",
+   "value": "10k",
+   "bottom": true,
+   "x": 287.5,
+   "y": 49.61,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ENC_A",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R9": {
+   "ref": "R9",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 27.3,
+   "y": 57.85,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "/rp2040/QSPI_SCLK",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SCLK)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R8": {
+   "ref": "R8",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 23.9776,
+   "y": 53.082,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D+",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-USB_DP)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C12": {
+   "ref": "C12",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 24.911189,
+   "y": 69.125875,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C2": {
+   "ref": "C2",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 38.6,
+   "y": 63.8,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C37": {
+   "ref": "C37",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C23733",
+   "value": "4.7u",
+   "bottom": true,
+   "x": 27.62,
+   "y": 72.85,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3M",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R23": {
+   "ref": "R23",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C17168",
+   "value": "0",
+   "bottom": true,
+   "x": 6.859999,
+   "y": 74.0,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_OUT",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ADC",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R7": {
+   "ref": "R7",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 22.9616,
+   "y": 53.082,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D-",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(U5-USB_DM)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C3": {
+   "ref": "C3",
+   "fpid": "Capacitor_SMD:C_0603_1608Metric",
+   "lcsc": "C69335",
+   "value": "4.7u",
+   "bottom": true,
+   "x": 17.5727,
+   "y": 50.5322,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C33": {
+   "ref": "C33",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C1525",
+   "value": "0.1u",
+   "bottom": true,
+   "x": 1.67,
+   "y": 77.0,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3A",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C19": {
+   "ref": "C19",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C1525",
+   "value": "0.1u",
+   "bottom": true,
+   "x": 297.776563,
+   "y": 49.887397,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ENC_A",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "U8": {
+   "ref": "U8",
+   "fpid": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+   "lcsc": "C21379",
+   "value": "CD4051BM96",
+   "bottom": true,
+   "x": 222.5,
+   "y": 110.5,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL7",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL8",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "SENSE",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": -2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL9",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": -2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL10",
+     "pinfunction": ""
+    },
+    {
+     "number": "6",
+     "x": -2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "INHB",
+     "pinfunction": ""
+    },
+    {
+     "number": "7",
+     "x": -2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "8",
+     "x": -2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "9",
+     "x": 2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "S3B",
+     "pinfunction": ""
+    },
+    {
+     "number": "10",
+     "x": 2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "S2B",
+     "pinfunction": ""
+    },
+    {
+     "number": "11",
+     "x": 2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "S1B",
+     "pinfunction": ""
+    },
+    {
+     "number": "12",
+     "x": 2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL11",
+     "pinfunction": ""
+    },
+    {
+     "number": "13",
+     "x": 2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL12",
+     "pinfunction": ""
+    },
+    {
+     "number": "14",
+     "x": 2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL13",
+     "pinfunction": ""
+    },
+    {
+     "number": "15",
+     "x": 2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL14",
+     "pinfunction": ""
+    },
+    {
+     "number": "16",
+     "x": 2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3M",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": -2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": -2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "6",
+     "x": -2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "7",
+     "x": -2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "8",
+     "x": -2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "9",
+     "x": 2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "10",
+     "x": 2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "11",
+     "x": 2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "12",
+     "x": 2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "13",
+     "x": 2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "14",
+     "x": 2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "15",
+     "x": 2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "16",
+     "x": 2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R48": {
+   "ref": "R48",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 175.0,
+   "y": 114.89,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL8",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C5": {
+   "ref": "C5",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C23733",
+   "value": "4.7u",
+   "bottom": true,
+   "x": 17.8227,
+   "y": 52.9572,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R49": {
+   "ref": "R49",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 196.0,
+   "y": 113.39,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL9",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R44": {
+   "ref": "R44",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 90.0,
+   "y": 113.39,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL4",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R32": {
+   "ref": "R32",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25076",
+   "value": "100",
+   "bottom": true,
+   "x": 19.4,
+   "y": 68.809999,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW2_DRV",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW2",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R33": {
+   "ref": "R33",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25076",
+   "value": "100",
+   "bottom": true,
+   "x": 20.3,
+   "y": 72.01,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW3_DRV",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW3",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R4": {
+   "ref": "R4",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25744",
+   "value": "10k",
+   "bottom": true,
+   "x": 29.0,
+   "y": 79.1,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "~{RST}",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R22": {
+   "ref": "R22",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25076",
+   "value": "100",
+   "bottom": true,
+   "x": 4.05,
+   "y": 71.01,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "SENSE",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_IN",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R31": {
+   "ref": "R31",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25076",
+   "value": "100",
+   "bottom": true,
+   "x": 19.24,
+   "y": 65.849999,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW1_DRV",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW1",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R24": {
+   "ref": "R24",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 2.690001,
+   "y": 79.2,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3A",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "U5": {
+   "ref": "U5",
+   "fpid": "rp2040:IC57_RP2040",
+   "lcsc": "C2040",
+   "value": "RP2040",
+   "bottom": true,
+   "x": 24.6696,
+   "y": 64.0,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -3.4012,
+     "y": -2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "IOVDD_1"
+    },
+    {
+     "number": "2",
+     "x": -3.4012,
+     "y": -2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ENC_B",
+     "pinfunction": "GPIO0_2"
+    },
+    {
+     "number": "3",
+     "x": -3.4012,
+     "y": -1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ENC_A",
+     "pinfunction": "GPIO1_3"
+    },
+    {
+     "number": "4",
+     "x": -3.4012,
+     "y": -1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ENC_SW",
+     "pinfunction": "GPIO2_4"
+    },
+    {
+     "number": "5",
+     "x": -3.4012,
+     "y": -1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "S3B",
+     "pinfunction": "GPIO3_5"
+    },
+    {
+     "number": "6",
+     "x": -3.4012,
+     "y": -0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "S2B",
+     "pinfunction": "GPIO4_6"
+    },
+    {
+     "number": "7",
+     "x": -3.4012,
+     "y": -0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "S1B",
+     "pinfunction": "GPIO5_7"
+    },
+    {
+     "number": "8",
+     "x": -3.4012,
+     "y": 0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO6-Pad8)",
+     "pinfunction": "GPIO6_8"
+    },
+    {
+     "number": "9",
+     "x": -3.4012,
+     "y": 0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "INHB",
+     "pinfunction": "GPIO7_9"
+    },
+    {
+     "number": "10",
+     "x": -3.4012,
+     "y": 1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "IOVDD_10"
+    },
+    {
+     "number": "11",
+     "x": -3.4012,
+     "y": 1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "S3A",
+     "pinfunction": "GPIO8_11"
+    },
+    {
+     "number": "12",
+     "x": -3.4012,
+     "y": 1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "S2A",
+     "pinfunction": "GPIO9_12"
+    },
+    {
+     "number": "13",
+     "x": -3.4012,
+     "y": 2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "S1A",
+     "pinfunction": "GPIO10_13"
+    },
+    {
+     "number": "14",
+     "x": -3.4012,
+     "y": 2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "INHA",
+     "pinfunction": "GPIO11_14"
+    },
+    {
+     "number": "15",
+     "x": -2.6,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO12-Pad15)",
+     "pinfunction": "GPIO12_15"
+    },
+    {
+     "number": "16",
+     "x": -2.200001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO13-Pad16)",
+     "pinfunction": "GPIO13_16"
+    },
+    {
+     "number": "17",
+     "x": -1.799999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO14-Pad17)",
+     "pinfunction": "GPIO14_17"
+    },
+    {
+     "number": "18",
+     "x": -1.4,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO15-Pad18)",
+     "pinfunction": "GPIO15_18"
+    },
+    {
+     "number": "19",
+     "x": -1.000001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": "TESTEN_19"
+    },
+    {
+     "number": "20",
+     "x": -0.599999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-XIN)",
+     "pinfunction": "XIN_20"
+    },
+    {
+     "number": "21",
+     "x": -0.2,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-XOUT-Pad21)",
+     "pinfunction": "XOUT_21"
+    },
+    {
+     "number": "22",
+     "x": 0.2,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "IOVDD_22"
+    },
+    {
+     "number": "23",
+     "x": 0.599999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "/rp2040/1V1",
+     "pinfunction": "DVDD_23"
+    },
+    {
+     "number": "24",
+     "x": 1.000001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "SWCLK",
+     "pinfunction": "SWCLK_24"
+    },
+    {
+     "number": "25",
+     "x": 1.4,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "SWDIO",
+     "pinfunction": "SWDIO_25"
+    },
+    {
+     "number": "26",
+     "x": 1.799999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "~{RST}",
+     "pinfunction": "RUN_26"
+    },
+    {
+     "number": "27",
+     "x": 2.200001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO16-Pad27)",
+     "pinfunction": "GPIO16_27"
+    },
+    {
+     "number": "28",
+     "x": 2.6,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO17-Pad28)",
+     "pinfunction": "GPIO17_28"
+    },
+    {
+     "number": "29",
+     "x": 3.4012,
+     "y": 2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ROW4_DRV",
+     "pinfunction": "GPIO18_29"
+    },
+    {
+     "number": "30",
+     "x": 3.4012,
+     "y": 2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ROW3_DRV",
+     "pinfunction": "GPIO19_30"
+    },
+    {
+     "number": "31",
+     "x": 3.4012,
+     "y": 1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ROW2_DRV",
+     "pinfunction": "GPIO20_31"
+    },
+    {
+     "number": "32",
+     "x": 3.4012,
+     "y": 1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ROW1_DRV",
+     "pinfunction": "GPIO21_32"
+    },
+    {
+     "number": "33",
+     "x": 3.4012,
+     "y": 1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "IOVDD_33"
+    },
+    {
+     "number": "34",
+     "x": 3.4012,
+     "y": 0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO22-Pad34)",
+     "pinfunction": "GPIO22_34"
+    },
+    {
+     "number": "35",
+     "x": 3.4012,
+     "y": 0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO23-Pad35)",
+     "pinfunction": "GPIO23_35"
+    },
+    {
+     "number": "36",
+     "x": 3.4012,
+     "y": -0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO24-Pad36)",
+     "pinfunction": "GPIO24_36"
+    },
+    {
+     "number": "37",
+     "x": 3.4012,
+     "y": -0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO25-Pad37)",
+     "pinfunction": "GPIO25_37"
+    },
+    {
+     "number": "38",
+     "x": 3.4012,
+     "y": -1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "ADC",
+     "pinfunction": "GPIO26/ADC0_38"
+    },
+    {
+     "number": "39",
+     "x": 3.4012,
+     "y": -1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO27{slash}ADC1-Pad39)",
+     "pinfunction": "GPIO27/ADC1_39"
+    },
+    {
+     "number": "40",
+     "x": 3.4012,
+     "y": -1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "SENSE",
+     "pinfunction": "GPIO28/ADC2_40"
+    },
+    {
+     "number": "41",
+     "x": 3.4012,
+     "y": -2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "unconnected-(U5-GPIO29{slash}ADC3-Pad41)",
+     "pinfunction": "GPIO29/ADC3_41"
+    },
+    {
+     "number": "42",
+     "x": 3.4012,
+     "y": -2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "IOVDD_42"
+    },
+    {
+     "number": "43",
+     "x": 2.6,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "ADC_AVDD_43"
+    },
+    {
+     "number": "44",
+     "x": 2.200001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "VREG_VIN_44"
+    },
+    {
+     "number": "45",
+     "x": 1.799999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "/rp2040/1V1",
+     "pinfunction": "VREG_VOUT_45"
+    },
+    {
+     "number": "46",
+     "x": 1.4,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-USB_DM)",
+     "pinfunction": "USB_DM_46"
+    },
+    {
+     "number": "47",
+     "x": 1.000001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-USB_DP)",
+     "pinfunction": "USB_DP_47"
+    },
+    {
+     "number": "48",
+     "x": 0.599999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "USB_VDD_48"
+    },
+    {
+     "number": "49",
+     "x": 0.2,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": "IOVDD_49"
+    },
+    {
+     "number": "50",
+     "x": -0.2,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "/rp2040/1V1",
+     "pinfunction": "DVDD_50"
+    },
+    {
+     "number": "51",
+     "x": -0.599999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD3)",
+     "pinfunction": "QSPI_SD3_51"
+    },
+    {
+     "number": "52",
+     "x": -1.000001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SCLK)",
+     "pinfunction": "QSPI_SCLK_52"
+    },
+    {
+     "number": "53",
+     "x": -1.4,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD0)",
+     "pinfunction": "QSPI_SD0_53"
+    },
+    {
+     "number": "54",
+     "x": -1.799999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD2)",
+     "pinfunction": "QSPI_SD2_54"
+    },
+    {
+     "number": "55",
+     "x": -2.200001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "Net-(U5-QSPI_SD1)",
+     "pinfunction": "QSPI_SD1_55"
+    },
+    {
+     "number": "56",
+     "x": -2.6,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "QSPI_SS_N",
+     "pinfunction": "QSPI_SS_N_56"
+    },
+    {
+     "number": "57",
+     "x": 0.0,
+     "y": 0.0,
+     "w": 3.2004,
+     "h": 3.2004,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": "EPAD_57"
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -3.4012,
+     "y": -2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -3.4012,
+     "y": -2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -3.4012,
+     "y": -1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": -3.4012,
+     "y": -1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": -3.4012,
+     "y": -1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "6",
+     "x": -3.4012,
+     "y": -0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "7",
+     "x": -3.4012,
+     "y": -0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "8",
+     "x": -3.4012,
+     "y": 0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "9",
+     "x": -3.4012,
+     "y": 0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "10",
+     "x": -3.4012,
+     "y": 1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "11",
+     "x": -3.4012,
+     "y": 1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "12",
+     "x": -3.4012,
+     "y": 1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "13",
+     "x": -3.4012,
+     "y": 2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "14",
+     "x": -3.4012,
+     "y": 2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "15",
+     "x": -2.6,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "16",
+     "x": -2.200001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "17",
+     "x": -1.799999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "18",
+     "x": -1.4,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "19",
+     "x": -1.000001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "20",
+     "x": -0.599999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "21",
+     "x": -0.2,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "22",
+     "x": 0.2,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "23",
+     "x": 0.599999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "24",
+     "x": 1.000001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "25",
+     "x": 1.4,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "26",
+     "x": 1.799999,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "27",
+     "x": 2.200001,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "28",
+     "x": 2.6,
+     "y": 3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "29",
+     "x": 3.4012,
+     "y": 2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "30",
+     "x": 3.4012,
+     "y": 2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "31",
+     "x": 3.4012,
+     "y": 1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "32",
+     "x": 3.4012,
+     "y": 1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "33",
+     "x": 3.4012,
+     "y": 1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "34",
+     "x": 3.4012,
+     "y": 0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "35",
+     "x": 3.4012,
+     "y": 0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "36",
+     "x": 3.4012,
+     "y": -0.2,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "37",
+     "x": 3.4012,
+     "y": -0.599999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "38",
+     "x": 3.4012,
+     "y": -1.000001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "39",
+     "x": 3.4012,
+     "y": -1.4,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "40",
+     "x": 3.4012,
+     "y": -1.799999,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "41",
+     "x": 3.4012,
+     "y": -2.200001,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "42",
+     "x": 3.4012,
+     "y": -2.6,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 90.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "43",
+     "x": 2.6,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "44",
+     "x": 2.200001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "45",
+     "x": 1.799999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "46",
+     "x": 1.4,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "47",
+     "x": 1.000001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "48",
+     "x": 0.599999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "49",
+     "x": 0.2,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "50",
+     "x": -0.2,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "51",
+     "x": -0.599999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "52",
+     "x": -1.000001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "53",
+     "x": -1.4,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "54",
+     "x": -1.799999,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "55",
+     "x": -2.200001,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "56",
+     "x": -2.6,
+     "y": -3.4012,
+     "w": 0.2,
+     "h": 0.807999,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "57",
+     "x": 0.0,
+     "y": 0.0,
+     "w": 3.2004,
+     "h": 3.2004,
+     "angle": 0.0,
+     "shape": 1,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R51": {
+   "ref": "R51",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 231.0,
+   "y": 100.289999,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL11",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "U6": {
+   "ref": "U6",
+   "fpid": "Package_TO_SOT_SMD:SOT-23-5",
+   "lcsc": "C41249",
+   "value": "AD8601ARTZ",
+   "bottom": true,
+   "x": 3.1,
+   "y": 74.0,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_OUT",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -1.1375,
+     "y": 0.0,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_IN",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": 1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_FB",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": 1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3A",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -1.1375,
+     "y": 0.0,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": 1.1375,
+     "y": 0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": 1.1375,
+     "y": -0.95,
+     "w": 1.325,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C15": {
+   "ref": "C15",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 29.7,
+   "y": 60.491503,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R45": {
+   "ref": "R45",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 100.0,
+   "y": 114.89,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL5",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "U7": {
+   "ref": "U7",
+   "fpid": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+   "lcsc": "C21379",
+   "value": "CD4051BM96",
+   "bottom": true,
+   "x": 76.0,
+   "y": 108.5,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL1",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL2",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "SENSE",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": -2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL3",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": -2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "6",
+     "x": -2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "INHA",
+     "pinfunction": ""
+    },
+    {
+     "number": "7",
+     "x": -2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "8",
+     "x": -2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "9",
+     "x": 2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "S3A",
+     "pinfunction": ""
+    },
+    {
+     "number": "10",
+     "x": 2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "S2A",
+     "pinfunction": ""
+    },
+    {
+     "number": "11",
+     "x": 2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "S1A",
+     "pinfunction": ""
+    },
+    {
+     "number": "12",
+     "x": 2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "13",
+     "x": 2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL4",
+     "pinfunction": ""
+    },
+    {
+     "number": "14",
+     "x": 2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL5",
+     "pinfunction": ""
+    },
+    {
+     "number": "15",
+     "x": 2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL6",
+     "pinfunction": ""
+    },
+    {
+     "number": "16",
+     "x": 2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3M",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": -2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "3",
+     "x": -2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "4",
+     "x": -2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "5",
+     "x": -2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "6",
+     "x": -2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "7",
+     "x": -2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "8",
+     "x": -2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "9",
+     "x": 2.475,
+     "y": 4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "10",
+     "x": 2.475,
+     "y": 3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "11",
+     "x": 2.475,
+     "y": 1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "12",
+     "x": 2.475,
+     "y": 0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "13",
+     "x": 2.475,
+     "y": -0.635,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "14",
+     "x": 2.475,
+     "y": -1.905,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "15",
+     "x": 2.475,
+     "y": -3.175,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "16",
+     "x": 2.475,
+     "y": -4.445,
+     "w": 1.95,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R47": {
+   "ref": "R47",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 160.0,
+   "y": 116.39,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL7",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C4": {
+   "ref": "C4",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 16.3477,
+   "y": 50.3072,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C20": {
+   "ref": "C20",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C1525",
+   "value": "0.1u",
+   "bottom": true,
+   "x": 292.775917,
+   "y": 49.887397,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ENC_B",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R34": {
+   "ref": "R34",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25076",
+   "value": "100",
+   "bottom": true,
+   "x": 21.2,
+   "y": 70.109999,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW4_DRV",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "ROW4",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R43": {
+   "ref": "R43",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 57.8,
+   "y": 111.40875,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R3": {
+   "ref": "R3",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25744",
+   "value": "10k",
+   "bottom": true,
+   "x": 30.155076,
+   "y": 71.064252,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(X2-EN)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R53": {
+   "ref": "R53",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 262.0,
+   "y": 114.89,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL13",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "D90": {
+   "ref": "D90",
+   "fpid": "Diode_SMD:D_SOD-882D",
+   "lcsc": "C22395519",
+   "value": "H5VU10U",
+   "bottom": true,
+   "x": 24.02888,
+   "y": 49.770629,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "",
+     "x": -0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "1",
+     "x": -0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D+",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "",
+     "x": -0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "1",
+     "x": -0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C18": {
+   "ref": "C18",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 19.55,
+   "y": 61.4,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R26": {
+   "ref": "R26",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25092",
+   "value": "22",
+   "bottom": true,
+   "x": 29.59,
+   "y": 72.85,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3M",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R21": {
+   "ref": "R21",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C881384",
+   "value": "43k 1%",
+   "bottom": true,
+   "x": 5.35,
+   "y": 74.51,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_OUT",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "AMP_FB",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R14": {
+   "ref": "R14",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C11702",
+   "value": "1k",
+   "bottom": true,
+   "x": 36.0,
+   "y": 63.8,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "QSPI_SS_N",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "Net-(R14-Pad2)",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "D89": {
+   "ref": "D89",
+   "fpid": "Diode_SMD:D_SOD-882D",
+   "lcsc": "C22395519",
+   "value": "H5VU10U",
+   "bottom": true,
+   "x": 22.674678,
+   "y": 50.990373,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "",
+     "x": -0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "1",
+     "x": -0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "D-",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "",
+     "x": -0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "1",
+     "x": -0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "R42": {
+   "ref": "R42",
+   "fpid": "Resistor_SMD:R_0402_1005Metric",
+   "lcsc": "C25741",
+   "value": "100k",
+   "bottom": true,
+   "x": 45.0,
+   "y": 113.39,
+   "angle": 90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "COL2",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.51,
+     "y": 0.0,
+     "w": 0.54,
+     "h": 0.64,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "D91": {
+   "ref": "D91",
+   "fpid": "Diode_SMD:D_SOD-882D",
+   "lcsc": "C22395519",
+   "value": "H5VU10U",
+   "bottom": true,
+   "x": 26.6,
+   "y": 49.473439,
+   "angle": 0.0,
+   "pads_normalized": [
+    {
+     "number": "",
+     "x": -0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "1",
+     "x": -0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+5V",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "",
+     "x": -0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "",
+     "x": 0.35,
+     "y": 0.0,
+     "w": 0.3,
+     "h": 0.6,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "1",
+     "x": -0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.4,
+     "y": 0.0,
+     "w": 0.5,
+     "h": 0.7,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C7": {
+   "ref": "C7",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C52923",
+   "value": "1u",
+   "bottom": true,
+   "x": 29.0,
+   "y": 81.05,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "~{RST}",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C30": {
+   "ref": "C30",
+   "fpid": "Capacitor_SMD:C_0603_1608Metric",
+   "lcsc": "C52152",
+   "value": "300p C0G",
+   "bottom": true,
+   "x": 0.45,
+   "y": 71.275,
+   "angle": -90.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "SENSE",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.775,
+     "y": 0.0,
+     "w": 0.9,
+     "h": 0.95,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  },
+  "C32": {
+   "ref": "C32",
+   "fpid": "Capacitor_SMD:C_0402_1005Metric",
+   "lcsc": "C23733",
+   "value": "4.7u",
+   "bottom": true,
+   "x": 1.67,
+   "y": 78.1,
+   "angle": 180.0,
+   "pads_normalized": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "+3V3A",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "GND",
+     "pinfunction": ""
+    }
+   ],
+   "lib_pads": [
+    {
+     "number": "1",
+     "x": -0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    },
+    {
+     "number": "2",
+     "x": 0.48,
+     "y": 0.0,
+     "w": 0.56,
+     "h": 0.62,
+     "angle": 0.0,
+     "shape": 4,
+     "attr": 1,
+     "net": "",
+     "pinfunction": ""
+    }
+   ]
+  }
+ }
+}
