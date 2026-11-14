@@ -1,0 +1,33 @@
+== N1 ROW1_DRV track 1.0 mm from SENSE, no guard (the wireless audit 2-1 pattern)
+   new check_spec: item 6b FAIL (expected FAIL) | exit 1 | FAIL lines 1
+     | FAIL ground guard between SENSE / AMP_IN / AMP_FB and every row strobe (ROWn_DRV, ROWn) closer than 1.5 mm (L4 tracks, vias) : 11
+     |         ('SENSE', 'ROW1_DRV', 100.0, 117.4)
+     |         ('SENSE', 'ROW1_DRV', 101.0, 117.4)
+     |         ('SENSE', 'ROW1_DRV', 102.0, 117.4)
+     |         ('SENSE', 'ROW1_DRV', 103.0, 117.4)
+   old check_spec (3367699): exit 0, FAIL lines 0
+== N2 = N1 plus a GND track between the two (guard present)
+   new check_spec: item 6b ok (expected ok) | exit 0 | FAIL lines 0
+     | ok   ground guard between SENSE / AMP_IN / AMP_FB and every row strobe (ROWn_DRV, ROWn) closer than 1.5 mm (L4 tracks, vias)
+     |      nearest strobe copper to SENSE / AMP_IN / AMP_FB (centre, L4 tracks and vias): [(('SENSE', 'ROW1_DRV'), 1.0), (('SENSE', 'ROW1'), 3.28), (('SENSE', 'ROW2_DRV'), 3.6), (('SENSE', 'ROW2'), 3.95)]
+     |      foreign vias within 1.0 mm (edge to edge) of SENSE / AMP_IN / AMP_FB: none
+     | ok   two or more ground vias per guard ring (5-10)
+     | ok   no foreign via inside an electrode or ring
+   old check_spec (3367699): exit 0, FAIL lines 0
+== N3 ROW2_DRV via 0.9 mm from SENSE (centre); its only track is an L1 stub, so on L4 there is just the via
+   new check_spec: item 6b FAIL (expected FAIL) | exit 1 | FAIL lines 1
+     | FAIL ground guard between SENSE / AMP_IN / AMP_FB and every row strobe (ROWn_DRV, ROWn) closer than 1.5 mm (L4 tracks, vias) : 1
+     |         ('SENSE', 'ROW2_DRV', 120.0, 117.5)
+     |      nearest strobe copper to SENSE / AMP_IN / AMP_FB (centre, L4 tracks and vias): [(('SENSE', 'ROW2_DRV'), 0.9), (('SENSE', 'ROW1_DRV'), 3.2), (('SENSE', 'ROW1'), 3.28), (('SENSE', 'ROW2'), 3.95)]
+     |      foreign vias within 1.0 mm (edge to edge) of SENSE / AMP_IN / AMP_FB: [('SENSE', 'ROW2_DRV', 0.58)]
+     | ok   two or more ground vias per guard ring (5-10)
+   old check_spec (3367699): exit 0, FAIL lines 0
+== N4 ROW4 (row side of the resistor) track 1.2 mm from SENSE
+   new check_spec: item 6b FAIL (expected FAIL) | exit 1 | FAIL lines 1
+     | FAIL ground guard between SENSE / AMP_IN / AMP_FB and every row strobe (ROWn_DRV, ROWn) closer than 1.5 mm (L4 tracks, vias) : 11
+     |         ('SENSE', 'ROW4', 180.0, 117.2)
+     |         ('SENSE', 'ROW4', 180.6, 117.2)
+     |         ('SENSE', 'ROW4', 181.2, 117.2)
+     |         ('SENSE', 'ROW4', 181.8, 117.2)
+   old check_spec (3367699): exit 0, FAIL lines 0
+ALL CASES AS EXPECTED

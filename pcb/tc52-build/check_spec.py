@@ -2,6 +2,7 @@
 """check_spec.py : checks from design-spec.md that the KiCad DRC does not cover (or that the rule areas exempt).
 
 Prints one line per check; exits 1 if a hard check fails. The 'review' lists are for reading, not pass/fail.
+Usage: check_spec.py [board.kicad_pcb]   (default ../ts52k.kicad_pcb; another path is for testing the checks on a copy)
 """
 import json, math, os, sys, collections
 import pcbnew
@@ -9,7 +10,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import matrix as M
 mm = pcbnew.ToMM
-b = pcbnew.LoadBoard(os.path.join(os.path.dirname(HERE), 'ts52k.kicad_pcb'))
+BOARD = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(HERE), 'ts52k.kicad_pcb')
+b = pcbnew.LoadBoard(BOARD)
 K = json.load(open(os.path.join(HERE, 'keys.json')))
 L1, L2, L3, L4 = pcbnew.F_Cu, pcbnew.In1_Cu, pcbnew.In2_Cu, pcbnew.B_Cu
 ASYNC = ('USB', 'D+', 'D-', 'QSPI', 'XIN', 'SWCLK', 'SWDIO', 'ENC_')
@@ -89,6 +91,70 @@ for t in tracks:
             if d < 2.38 - 0.01:
                 bad[(n, m)] = min(bad[(n, m)], round(d, 2))
 report('review: column / SENSE to row lead-in centre distance under 2.38 mm (5-9)', sorted(bad.items()), hard=False)
+# 6b. ground guard between the AFE input nets and the row strobes (ported from TC52 wireless 3fa54e7, audit 2-1).
+#     Items 5 and 6 above leave the strobes out: 5 skips every ROW* net, 6 skips ROWn_DRV, and the DRC rule
+#     "HIZ to other nets 2.0 mm" exempts ROW* as well; none of them looks at vias beside SENSE.  Hard part: every
+#     piece of strobe copper that reaches L4 -- ROWn_DRV (GPIO side of the series resistor) and ROWn (row side), tracks
+#     on L4 and vias of either net, which pass through L4 -- closer than 1.5 mm (centre to centre) to a SENSE /
+#     AMP_IN / AMP_FB track on L4 must have ground between the two: a GND track on L4, or the L4 GND pour, crossing
+#     the shortest line between them.  The pour is refilled in memory on a second copy of the board, so a stale fill
+#     in the file cannot pass for a guard (the board file is not written).
+AFE_IN = ('SENSE', 'AMP_IN', 'AMP_FB')
+strobe = lambda n: n.startswith('ROW') and n[3:4].isdigit() and n[4:] in ('', '_DRV')
+bf = pcbnew.LoadBoard(BOARD)
+pcbnew.ZONE_FILLER(bf).Fill(bf.Zones())
+gpour = [z.GetFilledPolysList(L4) for z in bf.Zones() if not z.GetIsRuleArea() and z.GetNetname() == 'GND' and z.IsOnLayer(L4)]
+gnd4 = [(seg(t), mm(t.GetWidth()) / 2) for t in tracks if t.GetLayer() == L4 and t.GetNetname() == 'GND']
+
+def guarded(px, py, qx, qy):
+    if any(dist_ss((px, py, qx, qy), g) <= w for g, w in gnd4):
+        return True
+    n = max(2, int(math.hypot(qx - px, qy - py) / 0.02))
+    return any(ps.Contains(pcbnew.VECTOR2I(pcbnew.FromMM(px + (qx - px) * i / n), pcbnew.FromMM(py + (qy - py) * i / n)))
+               for ps in gpour for i in range(1, n))
+
+aggr = [(u.GetNetname(), seg(u)) for u in tracks if u.GetLayer() == L4 and strobe(u.GetNetname())]
+aggr += [(v.GetNetname(), (mm(v.GetPosition().x), mm(v.GetPosition().y)) * 2) for v in vias if strobe(v.GetNetname())]
+near = collections.defaultdict(lambda: 9.9)
+bad = []
+for t in tracks:
+    if t.GetLayer() != L4 or t.GetNetname() not in AFE_IN:
+        continue
+    a = seg(t)
+    for m, c in aggr:
+        d = dist_ss(a, c)
+        if d >= 1.5:
+            continue
+        near[(t.GetNetname(), m)] = min(near[(t.GetNetname(), m)], round(d, 2))
+        for i in range(11):                     # sample the strobe copper; nearest point on the AFE segment
+            px, py = c[0] + (c[2] - c[0]) * i / 10, c[1] + (c[3] - c[1]) * i / 10
+            dx, dy = a[2] - a[0], a[3] - a[1]
+            LL = dx * dx + dy * dy
+            f = 0 if LL == 0 else max(0, min(1, ((px - a[0]) * dx + (py - a[1]) * dy) / LL))
+            qx, qy = a[0] + f * dx, a[1] + f * dy
+            if math.hypot(px - qx, py - qy) < 1.5 and not guarded(px, py, qx, qy):
+                bad.append((t.GetNetname(), m, round(px, 2), round(py, 2)))
+bad = sorted(set(bad))
+report('ground guard between SENSE / AMP_IN / AMP_FB and every row strobe (ROWn_DRV, ROWn) closer than 1.5 mm (L4 tracks, vias)', bad)
+near2 = collections.defaultdict(lambda: 9.9)
+for t in tracks:
+    if t.GetLayer() == L4 and t.GetNetname() in AFE_IN:
+        for m, c in aggr:
+            near2[(t.GetNetname(), m)] = min(near2[(t.GetNetname(), m)], round(dist_ss(seg(t), c), 2))
+print('     nearest strobe copper to SENSE / AMP_IN / AMP_FB (centre, L4 tracks and vias):',
+      sorted(((k, v) for k, v in near2.items() if v < 4.0), key=lambda x: x[1]) or 'none within 4 mm')
+vnear = []
+for t in tracks:
+    if t.GetLayer() != L4 or t.GetNetname() not in AFE_IN:
+        continue
+    for v in vias:
+        if v.GetNetname() in ('GND',) + AFE_IN or v.GetNetname().startswith('COL'):
+            continue
+        vx, vy = mm(v.GetPosition().x), mm(v.GetPosition().y)
+        d = dist_ss(seg(t), (vx, vy, vx, vy)) - mm(t.GetWidth()) / 2 - mm(v.GetWidth(L4)) / 2
+        if d < 1.0:
+            vnear.append((t.GetNetname(), v.GetNetname(), round(d, 2)))
+print('     foreign vias within 1.0 mm (edge to edge) of SENSE / AMP_IN / AMP_FB:', sorted(set(vnear), key=lambda x: x[2]) or 'none')
 # 7. guard rings: >= 2 ground vias on each ring
 bad = []
 for k, (x, y) in K.items():
